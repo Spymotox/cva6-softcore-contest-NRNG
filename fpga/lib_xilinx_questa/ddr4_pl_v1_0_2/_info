@@ -1,0 +1,612 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vddr4_pl_v1_0_2_bram_tdp
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1644241246
+!i10b 1
+!s100 h=GAChG[8YT^?ERFFim3d0
+IH^L7TciRZf5jD`L[VZDVn2
+S1
+R0
+Z3 w1590640540
+Z4 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/ddr4_pl_v1_0_dp_AB9.sv
+Z5 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/ddr4_pl_v1_0_dp_AB9.sv
+!i122 0
+L0 174 72
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241245.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/ddr4_pl_v1_0_2_chipscope_icon2xsdb_mstrbr_ver_inc.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/ddr4_pl_v1_0_2_cs_ver_inc.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/ddr4_pl_v1_0_2_cal_assert.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/xsdb_slave_core_fifo.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/xsdb_slave_core.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/ddr4_pl_v1_0_dp_AB9.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/ddr4_pl_v1_0_chipscope_xsdb_slave.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_xsdb_bram.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_xsdb_arbiter.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_write.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_wr_byte.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_wr_bit.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_top.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_sync.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_read.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_rd_en.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_pi.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_odt.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_mc_odt.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_debug_microblaze.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_cplx_data.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_cplx.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_config_rom.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_bfifo.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_addr_decode.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal.sv|
+Z9 !s90 -64|-L|ddr4_pl_v1_0_2|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-sv|-svinputport=relaxed|-work|ddr4_pl_v1_0_2|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/ddr4_pl_v1_0_2/.cxl.systemverilog.ddr4_pl_v1_0_2.ddr4_pl_v1_0_2.lin64.cmf|
+!i113 0
+Z10 o-64 -L ddr4_pl_v1_0_2 -sv -svinputport=relaxed -work ddr4_pl_v1_0_2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 -L ddr4_pl_v1_0_2 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -sv -svinputport=relaxed -work ddr4_pl_v1_0_2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+vddr4_pl_v1_0_2_cal
+R1
+Z13 !s110 1644241245
+!i10b 1
+!s100 >^M>aH6:JloB8K:h2aQj=1
+IOOlFEDoj`G>To_JMlj4Ua1
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal.sv
+!i122 0
+L0 71 2213
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z14 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/ddr4_pl_v1_0_2_chipscope_icon2xsdb_mstrbr_ver_inc.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/ddr4_pl_v1_0_2_cs_ver_inc.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/ddr4_pl_v1_0_2_cal_assert.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/xsdb_slave_core_fifo.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/xsdb_slave_core.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/ddr4_pl_v1_0_dp_AB9.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/ddr4_pl_v1_0_chipscope_xsdb_slave.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_xsdb_bram.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_xsdb_arbiter.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_write.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_wr_byte.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_wr_bit.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_top.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_sync.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_read.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_rd_en.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_pi.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_odt.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_mc_odt.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_debug_microblaze.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_cplx_data.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_cplx.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_config_rom.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_bfifo.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_addr_decode.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal.sv|
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_addr_decode
+R1
+R13
+!i10b 1
+!s100 4hdemNo39E=DWRmG>JlBD1
+I<YK6FeQf8OXEI[P^SgfHL2
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_addr_decode.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_addr_decode.sv
+!i122 0
+L0 91 2562
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_bfifo
+R1
+R13
+!i10b 1
+!s100 _Z[b0Ij]?7W:F3o]Gm7On2
+IHQggDR9eMd97MiY@jEf:U3
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_bfifo.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_bfifo.sv
+!i122 0
+L0 68 49
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_config_rom
+R1
+R13
+!i10b 1
+!s100 CL3[?jc9O@YDLkkNkk:[<0
+IOJF]9=Z491NTg7878^cdg1
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_config_rom.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_config_rom.sv
+!i122 0
+L0 68 167
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_cplx
+R1
+R2
+!i10b 1
+!s100 ]mCjM>f0MMNLlC8XN7iZ:0
+I^4@<Z9PDLW>2BQ_fOjzAM0
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_cplx.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_cplx.sv
+!i122 0
+L0 68 867
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_cplx_data
+R1
+R2
+!i10b 1
+!s100 ?V=c;MKa4J?O:]PzaHCE@0
+IKPBkV?G>IPghk5:9Ek?QX1
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_cplx_data.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_cplx_data.sv
+!i122 0
+L0 71 448
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_debug_microblaze
+R1
+R2
+!i10b 1
+!s100 _G7IA6?JbG70Dc5Jd3f[T3
+ImhGPJLe0^EgiIz=lI=O[90
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_debug_microblaze.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_debug_microblaze.sv
+!i122 0
+L0 68 1298
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_mc_odt
+R1
+R2
+!i10b 1
+!s100 BZ>DJJa>Q>R2jz5337>Db2
+I1bDXh5m2VG@^bML<CSEF70
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_mc_odt.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_mc_odt.sv
+!i122 0
+Z15 L0 68 120
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_odt
+R1
+R2
+!i10b 1
+!s100 0S]>FXClmJJJiC7I=eR571
+Ib1o=DgRSf75:2oGM4TiM12
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_odt.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_odt.sv
+!i122 0
+R15
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_pi
+R1
+R2
+!i10b 1
+!s100 lDgmXAeiNT1zH:L0MAMkC0
+IS7P]F9CCFZ3968JkC9ZC52
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_pi.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_pi.sv
+!i122 0
+L0 68 209
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_rd_en
+R1
+R2
+!i10b 1
+!s100 DmcHn6c9G[hTECe[;FYic1
+Im0V_C2F2N>DeceH>DJi7i0
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_rd_en.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_rd_en.sv
+!i122 0
+L0 68 347
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_read
+R1
+R2
+!i10b 1
+!s100 X>X<XA391:cRIPCnMZLnE2
+ID5mj>jl6YM5EEA8ibgL<;2
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_read.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_read.sv
+!i122 0
+L0 68 123
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_sync
+R1
+R2
+!i10b 1
+!s100 ;1YD8ZCEGN:C>RB@3cjU@1
+ILH:Ph[MC96K]Jc08WJ:Oe0
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_sync.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_sync.sv
+!i122 0
+L0 68 48
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_top
+R1
+R2
+!i10b 1
+!s100 EG:7l7NA]ajg9OL8cW:UA3
+IZQn5TL8hQ6fkzIzH@CzdN0
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_top.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_top.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/ddr4_pl_v1_0_2_cal_assert.vh
+!i122 0
+L0 71 2095
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_wr_bit
+R1
+R2
+!i10b 1
+!s100 ASTePdFTAG^^MMKG0:H380
+I[_G3k0b`4bAH>=2o_TjjE0
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_wr_bit.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_wr_bit.sv
+!i122 0
+L0 68 30
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_wr_byte
+R1
+R2
+!i10b 1
+!s100 na8?;9;>@0MK[nGDN9`BK0
+IIkGk@[gSa]SRSciUFk?fE1
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_wr_byte.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_wr_byte.sv
+!i122 0
+L0 68 54
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_write
+R1
+R2
+!i10b 1
+!s100 _>6[d[O`R6a[iC68Qn5<;0
+IX144[@W>VR7;]AcEY^?]I3
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_write.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_write.sv
+!i122 0
+L0 68 238
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_xsdb_arbiter
+R1
+R2
+!i10b 1
+!s100 CLinWUjT;YE^iUWD_h<g>2
+IzT2Y7BgP^IL7@SlInbVmz1
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_xsdb_arbiter.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_xsdb_arbiter.sv
+!i122 0
+L0 68 212
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cal_xsdb_bram
+R1
+R2
+!i10b 1
+!s100 =M;O2ZFncFj;a8FN3::<V1
+IeHc;Q[YET>gg_:MOV^J<c0
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_xsdb_bram.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/ddr4_pl_v1_0_cal_xsdb_bram.sv
+!i122 0
+L0 69 422
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_cfg_mem_mod
+R1
+R2
+!i10b 1
+!s100 SfQKUJH:DERN]_UeO=MLK0
+Iz:QBjz:bfgLmeMUC`:BT93
+S1
+R0
+R3
+R4
+R5
+!i122 0
+L0 66 107
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vddr4_pl_v1_0_2_chipscope_xsdb_slave
+R1
+R2
+!i10b 1
+!s100 4aTSmVV>AIfY9U9T]mbUD2
+IX;]?fcQJY20Lc^Rz47dR60
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/ddr4_pl_v1_0_chipscope_xsdb_slave.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/ddr4_pl_v1_0_chipscope_xsdb_slave.sv
+!i122 0
+L0 29 195
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vxsdb_slave_core
+R1
+R2
+!i10b 1
+!s100 A?NYCkCZWh;hXm<0b`lf<2
+I4h:Ni?PA^VWhHDFz]lo3M0
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/xsdb_slave_core.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/xsdb_slave_core.sv
+!i122 0
+L0 3 658
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12
+vxsdb_slave_core_fifo
+R1
+R2
+!i10b 1
+!s100 ]97iHORDM@6?o`FdkKZkL2
+I]n:YT6^5<ZiK2_cbH[mX52
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/xsdb_slave_core_fifo.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/ddr4_pl_v1_0/hdl/cal/xsdb/xsdb_slave_core_fifo.sv
+!i122 0
+L0 4 90
+R6
+R7
+r1
+!s85 0
+31
+R8
+R14
+R9
+!i113 0
+R10
+R11
+R12

@@ -1,0 +1,37 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vui9Z4jhRdAXbtUBjgRRfsMyJtEcviXF6TmAcGrVkIT0=
+!s110 1644241380
+!i10b 0
+!s100 HiYofABa6SSB[^0ze>16K2
+IZWz[ZlG@7=4bNb[F@8cPW2
+!i119 1
+!i8a 470595984
+R0
+w1644241380
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/gigantic_mux_v1_0/hdl/gigantic_mux_v1_0_cntr.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/gigantic_mux_v1_0/hdl/gigantic_mux_v1_0_cntr.v
+!i122 0
+L0 82 1
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.3_2;73
+r1
+!s85 0
+31
+!s108 1644241380.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/gigantic_mux_v1_0/hdl/gigantic_mux_v1_0_cntr.v|
+!s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|gigantic_mux|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/gigantic_mux/.cxl.verilog.gigantic_mux.gigantic_mux.lin64.cmf|
+!i113 0
+o-64 -work gigantic_mux -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work gigantic_mux -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
+n37ab62

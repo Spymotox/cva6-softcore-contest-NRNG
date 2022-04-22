@@ -1,0 +1,64 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vDN/4Uu2Ks9Rp3dpk1emyTDDbf1zpULBpNqIu36ZKMSM=
+Z1 !s110 1644241824
+!i10b 1
+!s100 7hj4`7j>K@EFDeZmIA9=G1
+IjLba2bOBN^1A0Z9I2UdOd1
+!i8a 1643156912
+R0
+w1590640634
+Z2 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/bs_switch_v1_0/hdl/bs_switch_v1_0_vl_rfs.v
+Z3 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/bs_switch_v1_0/hdl/bs_switch_v1_0_vl_rfs.v
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/bs_switch_v1_0_0_bs_ext.vh
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/bs_switch_v1_0_0_bs.vh
+!i122 0
+L0 82 1321
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z6 !s108 1644241824.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/bs_switch_v1_0_0_bs.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/bs_switch_v1_0_0_bs_ext.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/bs_switch_v1_0_0_in.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/bs_switch_v1_0/hdl/bs_switch_v1_0_vl_rfs.v|
+Z7 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|bs_switch_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/bs_switch_v1_0_0/.cxl.verilog.bs_switch_v1_0_0.bs_switch_v1_0_0.lin64.cmf|
+!i113 0
+Z8 o-64 -work bs_switch_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work bs_switch_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+n482238
+vRwa1J7/EhJpk0bQpIVEMWBRrw4z7x+b6sj4yFAXLRSI=
+R1
+!i10b 0
+!s100 CQ4BBVNhicXK:4I;TfJ=`2
+IJUaEKgkog:=YjjR^[S0jO0
+!i119 1
+!i8a 369180896
+R0
+w1644241824
+R2
+R3
+!i122 0
+L0 82 1
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/bs_switch_v1_0_0_bs.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/bs_switch_v1_0_0_bs_ext.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/bs_switch_v1_0_0_in.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/bs_switch_v1_0/hdl/bs_switch_v1_0_vl_rfs.v|
+R7
+!i113 0
+R8
+R9
+R10
+nea297e5

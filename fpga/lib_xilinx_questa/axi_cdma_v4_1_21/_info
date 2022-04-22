@@ -1,0 +1,777 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Eaxi_cdma
+Z1 w1590640534
+Z2 DPx14 axi_sg_v4_1_13 10 axi_sg_pkg 0 22 >Rd=g@JE?<oV4Shk93Z?O1
+Z3 DEx16 axi_cdma_v4_1_21 16 axi_cdma_sg_wrap 0 22 k]zePmz6IeM2J6EB5YQBS0
+Z4 DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+Z5 DPx3 xpm 11 vcomponents 0 22 T[0[dMZKaF]em8R49B[GH2
+Z6 DEx16 axi_cdma_v4_1_21 20 axi_cdma_simple_wrap 0 22 [Qiiza<mzB9[bhKa^D^X^1
+Z7 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z8 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z9 DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 QP:`ST7Am`B05z6NR4P3M0
+Z10 DPx16 axi_cdma_v4_1_21 12 axi_cdma_pkg 0 22 cWYFjLe?Z^f>U0?mJA]4G0
+Z11 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z12 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z13 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z14 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z15 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z16 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_cdma_v4_1/hdl/axi_cdma_v4_1_vh_rfs.vhd
+Z17 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_cdma_v4_1/hdl/axi_cdma_v4_1_vh_rfs.vhd
+l0
+L15017 1
+VJmMI14`IVa9U6dbUzS@AY0
+!s100 HHO;l3Pc]:[oDgaRWgST52
+Z18 OL;C;2021.3_2;73
+31
+Z19 !s110 1644241732
+!i10b 1
+Z20 !s108 1644241731.000000
+Z21 !s90 -64|-93|-work|axi_cdma_v4_1_21|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_cdma_v4_1_21/.cxl.vhdl.axi_cdma_v4_1_21.axi_cdma_v4_1_21.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_cdma_v4_1/hdl/axi_cdma_v4_1_vh_rfs.vhd|
+!i113 0
+Z22 o-64 -93 -work axi_cdma_v4_1_21
+Z23 tExplicit 1 CvgOpt 0
+Aimplementation
+R3
+R6
+R2
+R4
+R5
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+DEx4 work 8 axi_cdma 0 22 JmMI14`IVa9U6dbUzS@AY0
+!i122 0
+l15478
+L15317 552
+Vl87?1XFLU5j7ZFnb4^NeP3
+!s100 ;T82Z90]:RHTfY:MF:0IZ1
+R18
+31
+R19
+!i10b 1
+R20
+R21
+Z24 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_cdma_v4_1/hdl/axi_cdma_v4_1_vh_rfs.vhd|
+!i113 0
+R22
+R23
+Eaxi_cdma_lite_if
+R1
+R7
+R8
+R9
+R10
+R4
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L2107 1
+V;0ooY9[6g:SocR9b<Y9_l0
+!s100 em_QC24P@gfR>Qjb]h[M]0
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+Z25 DEx14 lib_cdc_v1_0_2 8 cdc_sync 0 22 IKUmIBRVig`LR@ZnI[GG92
+R7
+R8
+R9
+R10
+R4
+R11
+R12
+R13
+R14
+R15
+DEx4 work 16 axi_cdma_lite_if 0 22 ;0ooY9[6g:SocR9b<Y9_l0
+!i122 0
+l2247
+L2173 1376
+VX>?:B=29Z^<K7d>OT:m4U3
+!s100 HPBRTR_WCo`]cIFHd;e:C0
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Paxi_cdma_pkg
+R7
+R8
+R9
+R13
+R14
+R15
+!i122 0
+R1
+R0
+R16
+R17
+l0
+L70 1
+VcWYFjLe?Z^f>U0?mJA]4G0
+!s100 iI35KGfj4O=SMCM6AT1Bd3
+R18
+31
+b1
+Z26 !s110 1644241731
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Bbody
+DPx4 work 12 axi_cdma_pkg 0 22 cWYFjLe?Z^f>U0?mJA]4G0
+R7
+R8
+R9
+R13
+R14
+R15
+!i122 0
+l0
+L262 1
+V_oR<]cARcoC316R_U6F[i3
+!s100 3M[A6f_fTL2lbkz9=FRmO3
+R18
+31
+R26
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_pulse_gen
+R1
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L374 1
+VUOlhLAUNiKVofQ?^k]R9k3
+!s100 To?M]z1R7ooDO10FZ]01Z3
+R18
+31
+R26
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R4
+R25
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+DEx4 work 18 axi_cdma_pulse_gen 0 22 UOlhLAUNiKVofQ?^k]R9k3
+!i122 0
+l463
+L413 399
+VL7<PnkFPKhe?=oBSW::XF3
+!s100 lVngmh8S0Vl5H[9gLGC6c0
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_reg_module
+R1
+Z27 DEx16 axi_cdma_v4_1_21 17 axi_cdma_register 0 22 Q80@T;elLmNjfYQGg=:7K2
+R4
+Z28 DEx16 axi_cdma_v4_1_21 16 axi_cdma_lite_if 0 22 ;0ooY9[6g:SocR9b<Y9_l0
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L5078 1
+V@zQj_HA5<2RF^5jKD_ehk1
+!s100 WF8Bg6Rl6C]f2[1jEV4>E1
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R27
+R25
+R28
+R4
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+DEx4 work 19 axi_cdma_reg_module 0 22 @zQj_HA5<2RF^5jKD_ehk1
+!i122 0
+l5393
+L5308 472
+VV@iXK?GV0[7a;PZf550h`2
+!s100 MYjLDPW;MYjzPnC0:iAcO3
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_register
+R1
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L3625 1
+VQ80@T;elLmNjfYQGg=:7K2
+!s100 ?=<d257^^I[acoIi<6M`G1
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+DEx4 work 17 axi_cdma_register 0 22 Q80@T;elLmNjfYQGg=:7K2
+!i122 0
+l3929
+L3808 1194
+V8_U;8WYf`>Hm[7MR8FkCB1
+!s100 ><QO^3]MO:kY8]U7k=_H;3
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_reset
+R1
+R7
+R8
+R9
+R10
+Z29 DEx16 axi_cdma_v4_1_21 18 axi_cdma_pulse_gen 0 22 UOlhLAUNiKVofQ?^k]R9k3
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L896 1
+V[X``3Z;ImDPQ@1zBjmN^[3
+!s100 acCYK7:fa58j[STPT1]0F1
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R29
+R4
+R25
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+R14
+R15
+DEx4 work 14 axi_cdma_reset 0 22 [X``3Z;ImDPQ@1zBjmN^[3
+!i122 0
+l1089
+L984 1042
+Va7?NokQ]X;i<74^kALob13
+!s100 3@zbWS:ZYbGk6EjZ]k@KT1
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_sf
+R1
+R5
+Z30 DEx16 axi_cdma_v4_1_21 21 axi_cdma_sfifo_autord 0 22 =IZXQUNoW_eMJFiH@5i8Y1
+Z31 DEx19 lib_srl_fifo_v1_0_2 10 srl_fifo_f 0 22 1?ha^4Qe8]`[Y2R?YgDmU0
+R7
+R8
+R9
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L6379 1
+V;zhBIXCYmRE3B@`7FI8Xn1
+!s100 ANomi4@J]?j9A_jH4F4BG3
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R31
+R30
+R5
+R7
+R8
+R9
+R13
+R14
+R15
+DEx4 work 11 axi_cdma_sf 0 22 ;zhBIXCYmRE3B@`7FI8Xn1
+!i122 0
+l7016
+L6509 980
+Vz@>_Ufck^d5kHOBbbUf[T1
+!s100 7KlZgCN_]IZ2Pb4d[c`RG2
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_sfifo_autord
+R1
+R5
+R13
+Z32 DEx16 lib_fifo_v1_0_14 12 sync_fifo_fg 0 22 Dkez5A;]6jo^C^oKSaK@22
+R7
+R8
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L5860 1
+V=IZXQUNoW_eMJFiH@5i8Y1
+!s100 k`eK1z6o:0Jg]O74l74VS0
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimp
+R32
+R5
+R13
+R7
+R8
+R14
+R15
+DEx4 work 21 axi_cdma_sfifo_autord 0 22 =IZXQUNoW_eMJFiH@5i8Y1
+!i122 0
+l5931
+L5899 386
+VFPYC^T_m3NFO^0E_>2;fM2
+!s100 jmK6oiFK>clBh]9GOoaQh3
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_sg_cntlr
+R1
+R10
+R29
+R7
+R8
+R9
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L10024 1
+VfblHhPEDSDYAnZhJbDaVo2
+!s100 ``Hi3hTEA7mXCe;`J<Q7]1
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R29
+R10
+R7
+R8
+R9
+R11
+R12
+R13
+R14
+R15
+DEx4 work 17 axi_cdma_sg_cntlr 0 22 fblHhPEDSDYAnZhJbDaVo2
+!i122 0
+l10615
+L10227 2467
+V<YC[N=6JeCU6Qe@c0n9YO0
+!s100 ga2k^TGZMegFQ_@JF<i0M0
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_sg_wrap
+R1
+Z33 DEx16 axi_cdma_v4_1_21 11 axi_cdma_sf 0 22 ;zhBIXCYmRE3B@`7FI8Xn1
+Z34 DEx16 axi_cdma_v4_1_21 17 axi_cdma_sg_cntlr 0 22 fblHhPEDSDYAnZhJbDaVo2
+Z35 DEx16 axi_cdma_v4_1_21 21 axi_cdma_simple_cntlr 0 22 7_C@zBifL=VHOJa5H8i7c1
+Z36 DEx16 axi_cdma_v4_1_21 19 axi_cdma_reg_module 0 22 @zQj_HA5<2RF^5jKD_ehk1
+Z37 DEx16 axi_cdma_v4_1_21 14 axi_cdma_reset 0 22 [X``3Z;ImDPQ@1zBjmN^[3
+R10
+R2
+Z38 DEx14 axi_sg_v4_1_13 6 axi_sg 0 22 XkIz[EmhPKl_AI_FLIAEo3
+R5
+Z39 DEx21 axi_datamover_v5_1_23 13 axi_datamover 0 22 29nU:H_ZH>lYT9K]i4a`Z3
+R7
+R8
+R9
+R4
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L12797 1
+Vk]zePmz6IeM2J6EB5YQBS0
+!s100 BQ^3<O=OZ=aMjHL2NY[AT2
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R33
+R39
+R38
+R34
+R35
+R36
+R37
+R10
+R2
+R5
+R7
+R8
+R9
+R4
+R11
+R12
+R13
+R14
+R15
+DEx4 work 16 axi_cdma_sg_wrap 0 22 k]zePmz6IeM2J6EB5YQBS0
+!i122 0
+l13646
+L13099 1842
+V;d`@af0ZlNlCi:_U4ozo]0
+!s100 _el24aH>4ROVf5:Wjl0<32
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_simple_cntlr
+R1
+R7
+R8
+R9
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L7564 1
+V7_C@zBifL=VHOJa5H8i7c1
+!s100 n^n59]P_Yb3CMEF2<<Q]^0
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R7
+R8
+R9
+R11
+R12
+R13
+R14
+R15
+DEx4 work 21 axi_cdma_simple_cntlr 0 22 7_C@zBifL=VHOJa5H8i7c1
+!i122 0
+l7882
+L7696 695
+V:L2F6FF@o4<<LZIK4he`_2
+!s100 AdQW:aCXdB2JkWfBV^1oO2
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Eaxi_cdma_simple_wrap
+R1
+R33
+R35
+R36
+R37
+R10
+R4
+R5
+R39
+R7
+R8
+R9
+R11
+R12
+R13
+R14
+R15
+!i122 0
+R0
+R16
+R17
+l0
+L8483 1
+V[Qiiza<mzB9[bhKa^D^X^1
+!s100 G<Vie>AcT^4_>8_UDnJE@3
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23
+Aimplementation
+R33
+R39
+R35
+R36
+R37
+R10
+R4
+R5
+R7
+R8
+R9
+R11
+R12
+R13
+R14
+R15
+DEx4 work 20 axi_cdma_simple_wrap 0 22 [Qiiza<mzB9[bhKa^D^X^1
+!i122 0
+l9035
+L8719 1226
+ViXLVcV;E;FVS0<i0z=LV_0
+!s100 U@GVI<_[Wef`a>A@<LQZH3
+R18
+31
+R19
+!i10b 1
+R20
+R21
+R24
+!i113 0
+R22
+R23

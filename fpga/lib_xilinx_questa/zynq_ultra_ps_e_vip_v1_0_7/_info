@@ -1,0 +1,584 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vzynq_ultra_ps_e_vip_v1_0_7
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 DXx10 xilinx_vip 18 xil_common_vip_pkg 0 22 FWBG=CE3dEG_^g[]`zR3a1
+Z3 DXx10 xilinx_vip 11 axi_vip_pkg 0 22 MZA;:iYICQn8Q@X:W0EbG1
+Z4 DXx4 work 39 zynq_ultra_ps_e_vip_v1_0_vl_rfs_sv_unit 0 22 ldAKMkc;Vlo7?B66dcYeO3
+Z5 !s110 1644241459
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 5:CDTFck@62WO?jGnKXMJ2
+If67VNK`LEbgd:VTUXUP?n2
+Z7 !s105 zynq_ultra_ps_e_vip_v1_0_vl_rfs_sv_unit
+S1
+R0
+Z8 w1590640562
+Z9 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/zynq_ultra_ps_e_vip_v1_0/hdl/zynq_ultra_ps_e_vip_v1_0_vl_rfs.sv
+Z10 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/zynq_ultra_ps_e_vip_v1_0/hdl/zynq_ultra_ps_e_vip_v1_0_vl_rfs.sv
+Z11 F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_local_params.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_unused_ports.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_apis.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_acp.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_ace.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_gp.sv
+!i122 0
+L0 9260 6183
+Z12 OL;L;2021.3_2;73
+31
+Z13 !s108 1644241458.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_gp.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_ace.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_acp.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_apis.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_unused_ports.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_reg_init.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_reg_params.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_local_params.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/zynq_ultra_ps_e_vip_v1_0/hdl/zynq_ultra_ps_e_vip_v1_0_vl_rfs.sv|
+Z14 !s90 -64|-L|axi_vip_v1_1_7|-L|zynq_ultra_ps_e_vip_v1_0_7|-L|xilinx_vip|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-sv|-svinputport=relaxed|-work|zynq_ultra_ps_e_vip_v1_0_7|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/zynq_ultra_ps_e_vip_v1_0_7/.cxl.systemverilog.zynq_ultra_ps_e_vip_v1_0_7.zynq_ultra_ps_e_vip_v1_0_7.lin64.cmf|
+!i113 0
+Z15 o-64 -L axi_vip_v1_1_7 -L zynq_ultra_ps_e_vip_v1_0_7 -L xilinx_vip -sv -svinputport=relaxed -work zynq_ultra_ps_e_vip_v1_0_7 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z16 !s92 -64 -L axi_vip_v1_1_7 -L zynq_ultra_ps_e_vip_v1_0_7 -L xilinx_vip +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -sv -svinputport=relaxed -work zynq_ultra_ps_e_vip_v1_0_7 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z17 tCvgOpt 0
+vzynq_ultra_ps_e_vip_v1_0_7_arb_rd
+R7
+R4
+R1
+Z18 !s110 1644241458
+!i10b 1
+!s100 2SKd?TF8fP34;X>`keSbQ0
+IK>8I?SJ@8clF=b8IX>zlT1
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 177 346
+R6
+R12
+r1
+!s85 0
+31
+R13
+Z19 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_gp.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_ace.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_axi_acp.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_apis.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_unused_ports.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_reg_init.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_reg_params.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_local_params.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/zynq_ultra_ps_e_vip_v1_0/hdl/zynq_ultra_ps_e_vip_v1_0_vl_rfs.sv|
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_arb_rd_6
+R7
+R4
+R1
+R18
+!i10b 1
+!s100 oJT?5KBC744hd0cD2ja2b3
+IQI^;nUCLl8;_RKH?U@Iog1
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 838 619
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_arb_rd_wr
+R7
+R4
+R1
+R18
+!i10b 1
+!s100 SRL3ElV^O7APdB`gD6S^b0
+Ia_VIkj67bnA7dOb3`O<fn0
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 1266 350
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_arb_wr
+R7
+R4
+R1
+R18
+!i10b 1
+!s100 jbK]:_^?B<;B]k0Zed8Yz2
+II[1QQJXH>QEci?6[Jif>42
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 11 357
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_arb_wr_6
+R7
+R4
+R1
+R18
+!i10b 1
+!s100 kVLoK<Uc2ZEmYJb9_M9?i0
+Igd:TimTko`3954TQQMki31
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 332 697
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_axi_master
+R1
+R2
+R3
+R4
+R5
+R6
+r1
+!s85 0
+!i10b 1
+!s100 O<fQNVVd4i8?eHPiK2]>f0
+I^CWeVX1F_:JAK`:lm_mfc0
+R7
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 7614 1837
+R12
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_axi_slave
+R1
+R2
+R3
+R4
+R5
+R6
+r1
+!s85 0
+!i10b 1
+!s100 Oo?Ce_zf2mSPUJ?MZABzA2
+IIcaF`lhd;?>Z[oglg?B2P3
+R7
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 4605 1653
+R12
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_axi_slave_acp
+R1
+R2
+R3
+R4
+R5
+R6
+r1
+!s85 0
+!i10b 1
+!s100 dkikHzFE8fXi623<O`So;3
+IHknVg@;I>ZZG<4`8kANXd1
+R7
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 6070 1730
+R12
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_ddr_interconnect_model
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 b<;@elhT^0[NMcTVRz_dB1
+Ihg67G2Q?]ScnIPK]TH9Pc1
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 3298 846
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_ddrc
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 WfE@l:;U;Q>?MdXVaTamP1
+I]7ZSzY0G[h0C2;lNWaA`A3
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 4233 562
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_gen_clock
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 cX`]Pc4?5^61gh]U=8G1a3
+I33NKQGik_mnVbTo63KNco1
+S1
+R0
+R8
+R9
+R10
+!i122 0
+L0 4173 48
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_gen_reset
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 4C:I>=@_hj?9R=S41WdNi0
+Imb8?VK4:db[]ZD]8PjeM>3
+S1
+R0
+R8
+R9
+R10
+!i122 0
+L0 3952 209
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_interconnect_model
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 V^ZEnZz>WCIMGXc]`:mEn3
+Ihn7n72WX1YRY^CGf_Uili3
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 2605 884
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_ocm_mem
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 :A`J_?72M<gnko0NWoa@H1
+I077WV]fjlBD<JJ>3PJOF31
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 2094 522
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_ocmc
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 ^NGHD:;O:DJ0jQTR59kEd1
+IE7T=:cG1Z60?>o?hk0J3:0
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 2499 297
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_reg_map
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 l^K<<GF:gh[OHjIjbjhOC0
+I]OkV77[S3>6O?nY1o_X<`2
+S1
+R0
+R8
+R9
+R10
+R11
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_reg_params.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/zynq_ultra_ps_e_vip_v1_0_7_reg_init.sv
+!i122 0
+L0 1944 43667
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_regc
+R7
+R4
+R1
+R5
+!i10b 1
+!s100 [NWgHG0gJI<;j`UhQfELJ2
+I[nB1D_O7eAUhC_KjLIFI<0
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 2425 265
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+vzynq_ultra_ps_e_vip_v1_0_7_sparse_mem
+R7
+R4
+R1
+R18
+!i10b 1
+!s100 iV04SA]MUmd4`I7:SBA?z2
+IAV=IYzUVBgOWS5P]RTo^A3
+S1
+R0
+R8
+R9
+R10
+R11
+!i122 0
+L0 1433 695
+R6
+R12
+r1
+!s85 0
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17
+Xzynq_ultra_ps_e_vip_v1_0_vl_rfs_sv_unit
+R1
+R2
+R3
+R5
+VldAKMkc;Vlo7?B66dcYeO3
+r1
+!s85 0
+!i10b 1
+!s100 ^z3@VFUQ3BkdiKRJAT_2=0
+IldAKMkc;Vlo7?B66dcYeO3
+!i103 1
+S1
+R0
+R8
+R9
+R10
+!i122 0
+L0 4603 0
+R12
+31
+R13
+R19
+R14
+!i113 0
+R15
+R16
+R17

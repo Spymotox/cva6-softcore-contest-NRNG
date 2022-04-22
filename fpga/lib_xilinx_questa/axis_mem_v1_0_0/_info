@@ -1,0 +1,110 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxis_mem_v1_0_0_axis_mem
+!s110 1644241216
+!i10b 1
+!s100 dmOZEPM@2Qj^1geAicnN`0
+IBHEUl7_Ac2`LGjl^T?FdN3
+R0
+Z1 w1590640634
+Z2 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_mem_v1_0/hdl/axis_mem_v1_0_rfs.v
+Z3 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_mem_v1_0/hdl/axis_mem_v1_0_rfs.v
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_probe_width.vh
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_probe_ports.vh
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_mu_inst.vh
+!i122 0
+L0 540 9162
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z6 !s108 1644241213.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_mu_inst.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_probe_ports.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_probe_width.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_ver.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_lib_fn.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_mem_v1_0/hdl/axis_mem_v1_0_rfs.v|
+Z7 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axis_mem_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axis_mem_v1_0_0/.cxl.verilog.axis_mem_v1_0_0.axis_mem_v1_0_0.lin64.cmf|
+!i113 0
+Z8 o-64 -work axis_mem_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axis_mem_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vaxis_mem_v1_0_0_generic_memrd
+Z11 !s110 1644241214
+!i10b 1
+!s100 1zf2GoI`7FQSdGRj6<hF?0
+IgT[Ehn^gO@b?TJ35E]@021
+R0
+R1
+R2
+R3
+Z12 F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_lib_fn.vh
+Z13 F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_ver.vh
+!i122 0
+L0 74 479
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z14 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_mu_inst.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_probe_ports.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_probe_width.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_ver.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_mem_v1_0_0_lib_fn.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_mem_v1_0/hdl/axis_mem_v1_0_rfs.v|
+R7
+!i113 0
+R8
+R9
+R10
+vaxis_mem_v1_0_0_generic_mux
+R11
+!i10b 1
+!s100 YjgMBjc]84cf5V`LinhkP0
+I^Z1<G[?A<D2<e_7Nel;^g2
+R0
+R1
+R2
+R3
+R12
+R13
+!i122 0
+L0 22 236
+R4
+R5
+r1
+!s85 0
+31
+R6
+R14
+R7
+!i113 0
+R8
+R9
+R10
+vaxis_mem_v1_0_0_mem
+R11
+!i10b 1
+!s100 V0d<eP1Hi;iGXG4P?1lcc0
+IX6ZW<@0QfG^_Bg0=e;MO?3
+R0
+R1
+R2
+R3
+!i122 0
+L0 349 185
+R4
+R5
+r1
+!s85 0
+31
+R6
+R14
+R7
+!i113 0
+R8
+R9
+R10

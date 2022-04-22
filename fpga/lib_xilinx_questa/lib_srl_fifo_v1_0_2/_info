@@ -1,0 +1,202 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Ecntr_incr_decr_addn_f
+Z1 w1590640637
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_srl_fifo_v1_0/hdl/lib_srl_fifo_v1_0_rfs.vhd
+Z5 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_srl_fifo_v1_0/hdl/lib_srl_fifo_v1_0_rfs.vhd
+l0
+L118 1
+Ve6D@HccCG@_73H5Um4jU73
+!s100 JbGZ6S=F>0ez1Q5GL1NMM0
+Z6 OL;C;2021.3_2;73
+31
+Z7 !s110 1644241401
+!i10b 1
+Z8 !s108 1644241401.000000
+Z9 !s90 -64|-93|-work|lib_srl_fifo_v1_0_2|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/lib_srl_fifo_v1_0_2/.cxl.vhdl.lib_srl_fifo_v1_0_2.lib_srl_fifo_v1_0_2.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_srl_fifo_v1_0/hdl/lib_srl_fifo_v1_0_rfs.vhd|
+!i113 0
+Z10 o-64 -93 -work lib_srl_fifo_v1_0_2
+Z11 tExplicit 1 CvgOpt 0
+Aimp
+DEx4 work 21 cntr_incr_decr_addn_f 0 22 e6D@HccCG@_73H5Um4jU73
+R3
+R2
+Z12 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+!i122 0
+l191
+L143 99
+VA?n^;lKhj3Iz1UjbV`3BR2
+!s100 6LRDk`DmRdIY?Co@B?9W81
+R6
+31
+R7
+!i10b 1
+R8
+R9
+Z13 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_srl_fifo_v1_0/hdl/lib_srl_fifo_v1_0_rfs.vhd|
+!i113 0
+R10
+R11
+Edynshreg_f
+R1
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 QP:`ST7Am`B05z6NR4P3M0
+R12
+R2
+R3
+!i122 0
+R0
+R4
+R5
+l0
+L379 1
+V826fCje8nUk:oC6;DAbJj0
+!s100 7CA53dM9AEf<VZCZ[<Ej33
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R13
+!i113 0
+R10
+R11
+Abehavioral
+R14
+R15
+R16
+R12
+R2
+R3
+DEx4 work 10 dynshreg_f 0 22 826fCje8nUk:oC6;DAbJj0
+!i122 0
+l476
+L397 106
+VA]ng8VCe4_icdFR>fP`lk0
+!s100 mK=SgV[3=MYzP^;f=k<Pc2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R13
+!i113 0
+R10
+R11
+Esrl_fifo_f
+R1
+R14
+R15
+R16
+R2
+R3
+!i122 0
+R0
+R4
+R5
+l0
+L978 1
+V1?ha^4Qe8]`[Y2R?YgDmU0
+!s100 nSQXefkWiN@J6=o_C=6a71
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R13
+!i113 0
+R10
+R11
+Aimp
+R12
+DEx19 lib_srl_fifo_v1_0_2 14 srl_fifo_rbu_f 0 22 oCCSJKHb?h@nBXhikOFMG2
+R14
+R15
+R16
+R2
+R3
+DEx4 work 10 srl_fifo_f 0 22 1?ha^4Qe8]`[Y2R?YgDmU0
+!i122 0
+l1007
+L1000 31
+VKoJ2XadROXdN68TN8:`zH2
+!s100 ^D0D]Poi;XV>K^z>PMQ;41
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R13
+!i113 0
+R10
+R11
+Esrl_fifo_rbu_f
+R1
+R14
+R15
+R16
+R12
+R2
+R3
+!i122 0
+R0
+R4
+R5
+l0
+L674 1
+VoCCSJKHb?h@nBXhikOFMG2
+!s100 54IBPCSO8?aDWo3[KQf>23
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R13
+!i113 0
+R10
+R11
+Aimp
+DEx19 lib_srl_fifo_v1_0_2 10 dynshreg_f 0 22 826fCje8nUk:oC6;DAbJj0
+DEx19 lib_srl_fifo_v1_0_2 21 cntr_incr_decr_addn_f 0 22 e6D@HccCG@_73H5Um4jU73
+R14
+R15
+R16
+R12
+R2
+R3
+DEx4 work 14 srl_fifo_rbu_f 0 22 oCCSJKHb?h@nBXhikOFMG2
+!i122 0
+l717
+L697 141
+VEn7_BJ@`oj?GYo5]@d^7_3
+!s100 :5TmPJM0:mHQ9^jOLlOZX3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R13
+!i113 0
+R10
+R11

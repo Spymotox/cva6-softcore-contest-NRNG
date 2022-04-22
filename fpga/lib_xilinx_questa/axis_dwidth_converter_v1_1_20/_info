@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxis_dwidth_converter_v1_1_20_axis_dwidth_converter
+Z1 !s110 1644241499
+!i10b 1
+!s100 _TlHGTPeSZ[6Ub4Vd[Hb51
+IB5O]EZZUTSW1df4=_]NL72
+R0
+Z2 w1590640763
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_dwidth_converter_v1_1/hdl/axis_dwidth_converter_v1_1_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_dwidth_converter_v1_1/hdl/axis_dwidth_converter_v1_1_vl_rfs.v
+Z5 F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_infrastructure_v1_1_0.vh
+!i122 0
+L0 810 696
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241499.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_dwidth_converter_v1_1/hdl/axis_dwidth_converter_v1_1_vl_rfs.v|
+Z9 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axis_dwidth_converter_v1_1_20|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axis_dwidth_converter_v1_1_20/.cxl.verilog.axis_dwidth_converter_v1_1_20.axis_dwidth_converter_v1_1_20.lin64.cmf|
+!i113 0
+Z10 o-64 -work axis_dwidth_converter_v1_1_20 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axis_dwidth_converter_v1_1_20 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+vaxis_dwidth_converter_v1_1_20_axisc_downsizer
+R1
+!i10b 1
+!s100 ]_AhZF:M9[=V;kA]bmOMc3
+IP7`GTM8E0[BPQeFgERjMf2
+R0
+R2
+R3
+R4
+R5
+!i122 0
+L0 62 647
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_dwidth_converter_v1_1/hdl/axis_dwidth_converter_v1_1_vl_rfs.v|
+R9
+!i113 0
+R10
+R11
+R12
+vaxis_dwidth_converter_v1_1_20_axisc_upsizer
+R1
+!i10b 1
+!s100 3Mz22;mF6:AO4_S6@k@C;3
+IK9>h7`z8_@MiTBWOH`ALS2
+R0
+R2
+R3
+R4
+R5
+!i122 0
+L0 437 640
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12

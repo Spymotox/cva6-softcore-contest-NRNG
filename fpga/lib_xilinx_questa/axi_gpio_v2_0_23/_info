@@ -1,0 +1,113 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Eaxi_gpio
+Z1 w1590640535
+Z2 DPx20 axi_lite_ipif_v3_0_4 8 ipif_pkg 0 22 QY1GMlWOO]F<M]NPV0;PG3
+Z3 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z4 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z5 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z6 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z7 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z10 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_gpio_v2_0/hdl/axi_gpio_v2_0_vh_rfs.vhd
+Z11 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_gpio_v2_0/hdl/axi_gpio_v2_0_vh_rfs.vhd
+l0
+L1265 1
+V@d:nAf4K4Fk_IVBIC=A5F2
+!s100 5I]Q0_FN_8b>jCAd]1z660
+Z12 OL;C;2021.3_2;73
+31
+Z13 !s110 1644241734
+!i10b 1
+Z14 !s108 1644241733.000000
+Z15 !s90 -64|-93|-work|axi_gpio_v2_0_23|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_gpio_v2_0_23/.cxl.vhdl.axi_gpio_v2_0_23.axi_gpio_v2_0_23.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_gpio_v2_0/hdl/axi_gpio_v2_0_vh_rfs.vhd|
+!i113 0
+Z16 o-64 -93 -work axi_gpio_v2_0_23
+Z17 tExplicit 1 CvgOpt 0
+Aimp
+DEx16 axi_gpio_v2_0_23 9 gpio_core 0 22 2<XPiLdGQBDWhWz]z=EUO3
+DEx24 interrupt_control_v3_1_4 17 interrupt_control 0 22 F89E`0?d<c6NgZNcFVl^;0
+DEx20 axi_lite_ipif_v3_0_4 13 axi_lite_ipif 0 22 C@:2Ph7;IGLbHe2l@iF9B0
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 8 axi_gpio 0 22 @d:nAf4K4Fk_IVBIC=A5F2
+!i122 0
+l1606
+L1351 558
+VLaaWZ[DM0cSkRC`fP1`l01
+!s100 hkN[F18;Ea>I4ac1kALD81
+R12
+31
+R13
+!i10b 1
+R14
+R15
+Z18 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_gpio_v2_0/hdl/axi_gpio_v2_0_vh_rfs.vhd|
+!i113 0
+R16
+R17
+Egpio_core
+R1
+R8
+R9
+!i122 0
+R0
+R10
+R11
+l0
+L130 1
+V2<XPiLdGQBDWhWz]z=EUO3
+!s100 JajJPVm[M2:cC8;8IfU1h2
+R12
+31
+!s110 1644241733
+!i10b 1
+R14
+R15
+R18
+!i113 0
+R16
+R17
+Aimp
+DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+R3
+R4
+R5
+DEx14 lib_cdc_v1_0_2 8 cdc_sync 0 22 IKUmIBRVig`LR@ZnI[GG92
+R8
+R9
+DEx4 work 9 gpio_core 0 22 2<XPiLdGQBDWhWz]z=EUO3
+!i122 0
+l228
+L178 897
+VhY@2O5@L=:e=Bc7Y^I0X:3
+!s100 6:j7kB@g51zEHzMQB]j@B2
+R12
+31
+R13
+!i10b 1
+R14
+R15
+R18
+!i113 0
+R16
+R17

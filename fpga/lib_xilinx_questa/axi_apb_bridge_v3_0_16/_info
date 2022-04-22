@@ -1,0 +1,344 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Eapb_mif
+Z1 w1590640534
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z6 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_apb_bridge_v3_0/hdl/axi_apb_bridge_v3_0_vh_rfs.vhd
+Z7 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_apb_bridge_v3_0/hdl/axi_apb_bridge_v3_0_vh_rfs.vhd
+l0
+L6624 1
+Vm@_2Gn93;YRb@dB^gS[6B1
+!s100 Y_mXa=TbTjiHb]0co5UQd3
+Z8 OL;C;2021.3_2;73
+31
+Z9 !s110 1644241531
+!i10b 1
+Z10 !s108 1644241530.000000
+Z11 !s90 -64|-93|-work|axi_apb_bridge_v3_0_16|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_apb_bridge_v3_0_16/.cxl.vhdl.axi_apb_bridge_v3_0_16.axi_apb_bridge_v3_0_16.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_apb_bridge_v3_0/hdl/axi_apb_bridge_v3_0_vh_rfs.vhd|
+!i113 0
+Z12 o-64 -93 -work axi_apb_bridge_v3_0_16
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+R5
+DEx4 work 7 apb_mif 0 22 m@_2Gn93;YRb@dB^gS[6B1
+!i122 0
+l6704
+L6674 260
+V>B0HWj1aDSnKGXN5A`WRk3
+!s100 AO6S3]i0Cg;FBz^WkZMHm0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+Z14 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_apb_bridge_v3_0/hdl/axi_apb_bridge_v3_0_vh_rfs.vhd|
+!i113 0
+R12
+R13
+Eaxi_apb_bridge
+R1
+R2
+R3
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+L7175 1
+V^Zj1JNg<mW_D>feCG=z^N0
+!s100 C3IUV>IXbaaJ8>e>>S0=L1
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Artl
+DEx22 axi_apb_bridge_v3_0_16 7 apb_mif 0 22 m@_2Gn93;YRb@dB^gS[6B1
+Z15 DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 QP:`ST7Am`B05z6NR4P3M0
+DEx22 axi_apb_bridge_v3_0_16 11 axilite_sif 0 22 zje[5W8h@@h_>PU2<=Dmi3
+DEx22 axi_apb_bridge_v3_0_16 11 multiplexor 0 22 3hG1QN6fUQMccBLX2R=@F0
+Z16 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z17 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z18 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+DEx22 axi_apb_bridge_v3_0_16 12 psel_decoder 0 22 Akb^GKJzi6YEm5^lIYc1d1
+R2
+R3
+R4
+R5
+DEx4 work 14 axi_apb_bridge 0 22 ^Zj1JNg<mW_D>feCG=z^N0
+!i122 0
+l7312
+L7284 221
+V@@_Tiz:0?8DYja>]J;:mH3
+!s100 iOfQjTcQLmJ:JC;zWd<Rf0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Eaxilite_sif
+R1
+Z19 DEx22 axi_apb_bridge_v3_0_16 9 counter_f 0 22 ef77RkiC<5`liMDSi_9Fi3
+R15
+R16
+R2
+R3
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+L6049 1
+Vzje[5W8h@@h_>PU2<=Dmi3
+!s100 6e2dKdDFA6`KiYVaa6=`G3
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Artl
+R19
+R15
+R16
+R2
+R3
+R4
+R5
+DEx4 work 11 axilite_sif 0 22 zje[5W8h@@h_>PU2<=Dmi3
+!i122 0
+l6156
+L6098 460
+VYfNFh1Vi:0<_DF]nTgaO91
+!s100 UFR>_bDVNge?A?ZC;9Va[3
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Ecounter_f
+R1
+R16
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+L321 1
+Vef77RkiC<5`liMDSi_9Fi3
+!s100 iXW>amVNdCXaY1L9d2Z5I1
+R8
+31
+Z20 !s110 1644241530
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Aimp
+R16
+R4
+R5
+DEx4 work 9 counter_f 0 22 ef77RkiC<5`liMDSi_9Fi3
+!i122 0
+l382
+L343 78
+VB1i<bYO9cXO6n`=P1?P5_0
+!s100 >?NUZ@4c9]9R;GjahleZC1
+R8
+31
+R20
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Emultiplexor
+R1
+R16
+R2
+R3
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+L4106 1
+V3hG1QN6fUQMccBLX2R=@F0
+!s100 f:i>R3Gj;9UWi8^[ET:?C3
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Artl
+R16
+R2
+R3
+R4
+R5
+DEx4 work 11 multiplexor 0 22 3hG1QN6fUQMccBLX2R=@F0
+!i122 0
+l4163
+L4148 1828
+VI2jYXDRco2I=_z^3RKoz71
+!s100 a8YU0NC4Ql17_23nMmWNd0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Epsel_decoder
+R1
+Z21 DEx22 axi_apb_bridge_v3_0_16 9 pselect_f 0 22 Ad:l2>YaeH@Mdn_P=<5d60
+R16
+R17
+R18
+R2
+R3
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+L496 1
+VAkb^GKJzi6YEm5^lIYc1d1
+!s100 D?TML_7M_RHLEM3h71iS?0
+R8
+31
+R20
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Artl
+R21
+R16
+R17
+R18
+R2
+R3
+R4
+R5
+DEx4 work 12 psel_decoder 0 22 Akb^GKJzi6YEm5^lIYc1d1
+!i122 0
+l600
+L564 3476
+V3SjR7n7F>8Z<[[zbd>Gmk1
+!s100 Q4]3G?f@K4[EK66kJezTS3
+R8
+31
+R20
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Epselect_f
+R1
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+L131 1
+VAd:l2>YaeH@Mdn_P=<5d60
+!s100 L1M5_3l3TmTJCnI2oUibN0
+R8
+31
+R20
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13
+Aimp
+R4
+R5
+DEx4 work 9 pselect_f 0 22 Ad:l2>YaeH@Mdn_P=<5d60
+!i122 0
+l177
+L151 56
+V0MmFMZL5_[?`V265d9boS2
+!s100 35^]OVGRFKzV^Fa78=UdM3
+R8
+31
+R20
+!i10b 1
+R10
+R11
+R14
+!i113 0
+R12
+R13

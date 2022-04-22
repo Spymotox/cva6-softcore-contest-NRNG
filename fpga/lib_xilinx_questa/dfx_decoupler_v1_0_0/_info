@@ -1,0 +1,68 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+ELil9XCeRpA0bvOBI3YbSPg==
+Z1 w1590640540
+Z2 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z3 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z9 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/dfx_decoupler_v1_0/hdl/dfx_decoupler_v1_0_vh_rfs.vhd
+Z10 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/dfx_decoupler_v1_0/hdl/dfx_decoupler_v1_0_vh_rfs.vhd
+l0
+Z11 L82 1
+VjZ]A0hezE6fZTP<9Q8>871
+!s100 NVa<jI4EV:O>@eG5>1FT22
+Z12 OL;C;2021.3_2;73
+!i119 1
+!i8a 349603136
+31
+Z13 !s110 1644241696
+!i10b 1
+Z14 !s108 1644241696.000000
+Z15 !s90 -64|-93|-work|dfx_decoupler_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/dfx_decoupler_v1_0_0/.cxl.vhdl.dfx_decoupler_v1_0_0.dfx_decoupler_v1_0_0.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/dfx_decoupler_v1_0/hdl/dfx_decoupler_v1_0_vh_rfs.vhd|
+!i113 0
+Z16 o-64 -93 -work dfx_decoupler_v1_0_0
+Z17 tExplicit 1 CvgOpt 0
+n3625a96
+AZA1bA0416zWmWMdbIA1zdQ==
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 axi_lite_if 0 22 jZ]A0hezE6fZTP<9Q8>871
+!i122 0
+l82
+R11
+V^l^a@hl5Co8[RR7EYUl0e3
+!s100 7;nO_lIKT`iHU:aag0<Aj0
+R12
+!i119 1
+!i8a 689203536
+31
+R13
+!i10b 1
+R14
+R15
+Z18 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/dfx_decoupler_v1_0/hdl/dfx_decoupler_v1_0_vh_rfs.vhd|
+!i113 0
+R16
+R17
+n7040

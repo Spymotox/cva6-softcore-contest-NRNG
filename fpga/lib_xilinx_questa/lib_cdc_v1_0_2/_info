@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Ecdc_sync
+Z1 w1590640637
+Z2 DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+Z3 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z4 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z5 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z8 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_cdc_v1_0/hdl/lib_cdc_v1_0_rfs.vhd
+Z9 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_cdc_v1_0/hdl/lib_cdc_v1_0_rfs.vhd
+l0
+L64 1
+VIKUmIBRVig`LR@ZnI[GG92
+!s100 iFj<<?Q=`eGILa`gV?>l50
+Z10 OL;C;2021.3_2;73
+31
+Z11 !s110 1644241382
+!i10b 1
+Z12 !s108 1644241381.000000
+Z13 !s90 -64|-93|-work|lib_cdc_v1_0_2|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/lib_cdc_v1_0_2/.cxl.vhdl.lib_cdc_v1_0_2.lib_cdc_v1_0_2.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_cdc_v1_0/hdl/lib_cdc_v1_0_rfs.vhd|
+!i113 0
+Z14 o-64 -93 -work lib_cdc_v1_0_2
+Z15 tExplicit 1 CvgOpt 0
+Aimplementation
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 8 cdc_sync 0 22 IKUmIBRVig`LR@ZnI[GG92
+!i122 0
+l136
+L106 1154
+VX_j:e[9Bl[E8W_FU>0T6B3
+!s100 bW^MR8e7Hk8nA`7D<8eFz2
+R10
+31
+R11
+!i10b 1
+R12
+R13
+Z16 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_cdc_v1_0/hdl/lib_cdc_v1_0_rfs.vhd|
+!i113 0
+R14
+R15

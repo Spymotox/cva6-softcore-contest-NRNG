@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vDSP48E1
+Z1 !s110 1644240944
+!i10b 1
+!s100 ^592Gb;kcE90D62iY3Fh]2
+I7NIgb2SzkHP;=BTgz^[Z;1
+R0
+Z2 w1590624374
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/DSP48E1.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/DSP48E1.v
+!i122 0
+L0 24 1339
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z5 !s108 1644240943.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/DSP48E1.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/GTXE2_CHANNEL.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/PLLE2_ADV.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/MMCME2_ADV.v|
+Z6 !s90 -source|-64|-work|unifast_ver|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/unifast_ver/.cxl.verilog.unifast.unifast_ver.lin64.cmf|
+!i113 0
+Z7 o-source -64 -work unifast_ver -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+n@d@s@p48@e1
+vGTXE2_CHANNEL
+R1
+!i10b 1
+!s100 LbZh795I4f;_EZI7V<[Jh0
+I_`<7aKPJSB[>G?0m@`>KH2
+R0
+R2
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/GTXE2_CHANNEL.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/GTXE2_CHANNEL.v
+!i122 0
+L0 32 3444
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/DSP48E1.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/GTXE2_CHANNEL.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/PLLE2_ADV.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/MMCME2_ADV.v|
+R6
+!i113 0
+R7
+R8
+n@g@t@x@e2_@c@h@a@n@n@e@l
+vMMCME2_ADV
+R1
+!i10b 1
+!s100 dIE_j<<@fkTn0iH6CO4BM1
+ILdGJXC=5dUG9m]KK`454G3
+R0
+R2
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/MMCME2_ADV.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/MMCME2_ADV.v
+!i122 0
+L0 26 1521
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@m@m@c@m@e2_@a@d@v
+vPLLE2_ADV
+R1
+!i10b 1
+!s100 >CBM5?8VPdQgk]M:nledP1
+IhH:7lZ;ahEDKR>bA34jT92
+R0
+R2
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/PLLE2_ADV.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unifast/PLLE2_ADV.v
+!i122 0
+L0 23 1159
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@p@l@l@e2_@a@d@v

@@ -1,0 +1,198 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Elpf
+Z1 w1590640549
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd
+Z6 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd
+l0
+L797 1
+Vnf@;330i9N15H;1_A=6:e3
+!s100 MgT??;YP<G1>13:koJDgb2
+Z7 OL;C;2021.3_2;73
+31
+Z8 !s110 1644241461
+!i10b 1
+Z9 !s108 1644241460.000000
+Z10 !s90 -64|-93|-work|proc_sys_reset_v5_0_13|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/proc_sys_reset_v5_0_13/.cxl.vhdl.proc_sys_reset_v5_0_13.proc_sys_reset_v5_0_13.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|
+!i113 0
+Z11 o-64 -93 -work proc_sys_reset_v5_0_13
+Z12 tExplicit 1 CvgOpt 0
+Aimp
+Z13 DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z14 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+DEx14 lib_cdc_v1_0_2 8 cdc_sync 0 22 IKUmIBRVig`LR@ZnI[GG92
+R2
+R3
+R4
+DEx4 work 3 lpf 0 22 nf@;330i9N15H;1_A=6:e3
+!i122 0
+l859
+L816 305
+VUAzj2El9g9;QnTHaR7<130
+!s100 DH[c9T^>FildZh>kInWVO2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+Z15 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/proc_sys_reset_v5_0/hdl/proc_sys_reset_v5_0_vh_rfs.vhd|
+!i113 0
+R11
+R12
+Eproc_sys_reset
+R1
+R14
+R13
+R3
+R4
+!i122 0
+R0
+R5
+R6
+l0
+L1264 1
+VQCAPRLe0iWWW;_4_7fENE0
+!s100 jihZ]z78R=P:1B:[`[7e92
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R15
+!i113 0
+R11
+R12
+Aimp
+DEx22 proc_sys_reset_v5_0_13 12 sequence_psr 0 22 SA;DDn[fe<k[K8nKkWPH70
+R2
+DEx22 proc_sys_reset_v5_0_13 3 lpf 0 22 nf@;330i9N15H;1_A=6:e3
+R14
+R13
+R3
+R4
+DEx4 work 14 proc_sys_reset 0 22 QCAPRLe0iWWW;_4_7fENE0
+!i122 0
+l1375
+L1323 320
+V0lSdnMi^EdcTR_;zUMjn90
+!s100 ^FhER_m?=iI[QK``n_ORj0
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R15
+!i113 0
+R11
+R12
+Esequence_psr
+R1
+R14
+R13
+R2
+R3
+R4
+!i122 0
+R0
+R5
+R6
+l0
+L286 1
+VSA;DDn[fe<k[K8nKkWPH70
+!s100 N_7@ZB2Xk=^XE`TlPzNHZ3
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R15
+!i113 0
+R11
+R12
+Aimp
+DEx22 proc_sys_reset_v5_0_13 7 upcnt_n 0 22 kZRHVzLQDi5[D9_d8]hJF1
+R14
+R13
+R2
+R3
+R4
+DEx4 work 12 sequence_psr 0 22 SA;DDn[fe<k[K8nKkWPH70
+!i122 0
+l343
+L301 374
+V8PJj3UM3:bjIOWooF3bQa0
+!s100 nD0bA8z50WTk7`8zin4hH0
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R15
+!i113 0
+R11
+R12
+Eupcnt_n
+R1
+R2
+R3
+R4
+!i122 0
+R0
+R5
+R6
+l0
+L109 1
+VkZRHVzLQDi5[D9_d8]hJF1
+!s100 i:4`@idn74;HN=oQ[3c5A3
+R7
+31
+Z16 !s110 1644241460
+!i10b 1
+R9
+R10
+R15
+!i113 0
+R11
+R12
+Aimp
+R2
+R3
+R4
+DEx4 work 7 upcnt_n 0 22 kZRHVzLQDi5[D9_d8]hJF1
+!i122 0
+l131
+L125 27
+VncHH`2iaEe4HQ^>:EfDme2
+!s100 OE=Ia8j19YO:32=1gzGYd0
+R7
+31
+R16
+!i10b 1
+R9
+R10
+R15
+!i113 0
+R11
+R12

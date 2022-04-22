@@ -1,0 +1,52 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Elmb_v10
+Z1 w1590640638
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lmb_v10_v3_0/hdl/lmb_v10_v3_0_vh_rfs.vhd
+Z5 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lmb_v10_v3_0/hdl/lmb_v10_v3_0_vh_rfs.vhd
+l0
+L92 1
+VKgRb7FBd=Vo9dCH27E5?`3
+!s100 c_o0]EDn:PG:R^:;mghzT0
+Z6 OL;C;2021.3_2;73
+31
+Z7 !s110 1644241257
+!i10b 1
+Z8 !s108 1644241257.000000
+Z9 !s90 -64|-93|-work|lmb_v10_v3_0_11|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/lmb_v10_v3_0_11/.cxl.vhdl.lmb_v10_v3_0_11.lmb_v10_v3_0_11.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lmb_v10_v3_0/hdl/lmb_v10_v3_0_vh_rfs.vhd|
+!i113 0
+Z10 o-64 -93 -work lmb_v10_v3_0_11
+Z11 tExplicit 1 CvgOpt 0
+Aimp
+R2
+R3
+DEx4 work 7 lmb_v10 0 22 KgRb7FBd=Vo9dCH27E5?`3
+!i122 0
+l154
+L141 143
+VLnn0lzz_Gb3ETRI>h8;Ze2
+!s100 Y@[7hY=CLY5_LTZ9bWoD00
+R6
+31
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lmb_v10_v3_0/hdl/lmb_v10_v3_0_vh_rfs.vhd|
+!i113 0
+R10
+R11

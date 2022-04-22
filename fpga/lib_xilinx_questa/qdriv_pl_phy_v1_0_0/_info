@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vqdriv_pl_phy_v1_0_0_floping
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1644241587
+!i10b 1
+!s100 <g`7RG25PoaCSce?N;j3E0
+IW6ZWU<[h=EaW[?6z8SnPR3
+S1
+R0
+Z3 w1590640551
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/qdriv_pl_phy_v1_0/hdl/sv_verif/phy_top/qdriv_pl_phy_v1_0_floping.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/qdriv_pl_phy_v1_0/hdl/sv_verif/phy_top/qdriv_pl_phy_v1_0_floping.sv
+!i122 0
+L0 69 25
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z6 !s108 1644241587.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/qdriv_pl_phy_v1_0/hdl/sv_verif/phy_top/qdriv_pl_phy_v1_0_floping.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/qdriv_pl_phy_v1_0/hdl/xphy_bank/qdriv_pl_phy_v1_0_xphy_bank_wrapper.sv|
+Z7 !s90 -64|-L|mem_pl_v1_0_0|-L|qdriv_pl_phy_v1_0_0|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-sv|-svinputport=relaxed|-work|qdriv_pl_phy_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/qdriv_pl_phy_v1_0_0/.cxl.systemverilog.qdriv_pl_phy_v1_0_0.qdriv_pl_phy_v1_0_0.lin64.cmf|
+!i113 0
+Z8 o-64 -L mem_pl_v1_0_0 -L qdriv_pl_phy_v1_0_0 -sv -svinputport=relaxed -work qdriv_pl_phy_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -64 -L mem_pl_v1_0_0 -L qdriv_pl_phy_v1_0_0 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -sv -svinputport=relaxed -work qdriv_pl_phy_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vqdriv_pl_phy_v1_0_0_xphy_bank_wrapper
+R1
+R2
+!i10b 1
+!s100 Szk9CQYS[gR:jH9S[c`ST3
+IhMIbWihi`[WU0o^0U6Sf]0
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/qdriv_pl_phy_v1_0/hdl/xphy_bank/qdriv_pl_phy_v1_0_xphy_bank_wrapper.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/qdriv_pl_phy_v1_0/hdl/xphy_bank/qdriv_pl_phy_v1_0_xphy_bank_wrapper.sv
+!i122 0
+L0 49 660
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/qdriv_pl_phy_v1_0/hdl/sv_verif/phy_top/qdriv_pl_phy_v1_0_floping.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/qdriv_pl_phy_v1_0/hdl/xphy_bank/qdriv_pl_phy_v1_0_xphy_bank_wrapper.sv|
+R7
+!i113 0
+R8
+R9
+R10

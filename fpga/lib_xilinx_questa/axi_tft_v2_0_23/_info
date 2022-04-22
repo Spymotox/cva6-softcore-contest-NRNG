@@ -1,0 +1,232 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Eaxi_tft
+Z1 w1590640536
+Z2 DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 QP:`ST7Am`B05z6NR4P3M0
+Z3 DEx23 axi_master_burst_v2_0_7 16 axi_master_burst 0 22 YCU?Y3SST4E21`^MjLF[a2
+Z4 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z5 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z6 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z7 DEx20 axi_lite_ipif_v3_0_4 13 axi_lite_ipif 0 22 C@:2Ph7;IGLbHe2l@iF9B0
+Z8 DPx20 axi_lite_ipif_v3_0_4 8 ipif_pkg 0 22 QY1GMlWOO]F<M]NPV0;PG3
+Z9 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z10 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z11 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z12 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z13 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_tft_v2_0/hdl/axi_tft_v2_0_rfs.vhd
+Z14 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_tft_v2_0/hdl/axi_tft_v2_0_rfs.vhd
+l0
+L256 1
+Vg[X=>MP;fQQ=L;ZhQzEK<1
+!s100 U:OFma5`]ZIa9o>cSDB1W0
+Z15 OL;C;2021.3_2;73
+31
+Z16 !s110 1644241725
+!i10b 1
+Z17 !s108 1644241725.000000
+Z18 !s90 -64|-93|-work|axi_tft_v2_0_23|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_tft_v2_0_23/.cxl.vhdl.axi_tft_v2_0_23.axi_tft_v2_0_23.lin64.cmf|
+Z19 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_tft_v2_0/hdl/axi_tft_v2_0_rfs.vhd|
+!i113 0
+Z20 o-64 -93 -work axi_tft_v2_0_23
+Z21 tExplicit 1 CvgOpt 0
+Aimp
+R3
+R7
+R2
+R4
+R5
+R6
+R8
+R9
+R10
+R11
+R12
+DEx4 work 7 axi_tft 0 22 g[X=>MP;fQQ=L;ZhQzEK<1
+!i122 0
+l669
+L412 535
+Vm5[^iCXmOlmUm8>_0g^=V3
+!s100 8:h77doM<[9kkClEi4[bn2
+R15
+31
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 0
+R20
+R21
+vaxi_tft_v2_0_23_h_sync
+R16
+!i10b 1
+!s100 mJVT528nf]Vokj1Wcoz0V2
+I`]lRV[CGNGj4JEUC<:ndo1
+R0
+R1
+Z22 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_tft_v2_0/hdl/axi_tft_v2_0_rfs.v
+Z23 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_tft_v2_0/hdl/axi_tft_v2_0_rfs.v
+!i122 1
+L0 2427 304
+Z24 VDg1SIo80bB@j0V0VzS_@n1
+Z25 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+R17
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_tft_v2_0/hdl/axi_tft_v2_0_rfs.v|
+Z26 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axi_tft_v2_0_23|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_tft_v2_0_23/.cxl.verilog.axi_tft_v2_0_23.axi_tft_v2_0_23.lin64.cmf|
+!i113 0
+Z27 o-64 -work axi_tft_v2_0_23 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z28 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axi_tft_v2_0_23 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z29 tCvgOpt 0
+vaxi_tft_v2_0_23_iic_init
+R16
+!i10b 1
+!s100 BTWBIOfSRE<kQA^Ue9n_h1
+Ic`_g[S2:UiFQOBfPOWJCO0
+R0
+R1
+R22
+R23
+!i122 1
+L0 94 311
+R24
+R25
+r1
+!s85 0
+31
+R17
+Z30 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_tft_v2_0/hdl/axi_tft_v2_0_rfs.v|
+R26
+!i113 0
+R27
+R28
+R29
+vaxi_tft_v2_0_23_line_buffer
+R16
+!i10b 1
+!s100 bb?78Xe[Ag>^T@JN=>keU3
+I^`E2KEHM?oRNEe_8je>5W1
+R0
+R1
+R22
+R23
+!i122 1
+L0 2114 204
+R24
+R25
+r1
+!s85 0
+31
+R17
+R30
+R26
+!i113 0
+R27
+R28
+R29
+vaxi_tft_v2_0_23_slave_register
+R16
+!i10b 1
+!s100 PU;mRLab6WRP@m^@bMLOM1
+I8HMXa9V9<P3lcbUiZQlgH1
+R0
+R1
+R22
+R23
+!i122 1
+L0 1519 478
+R24
+R25
+r1
+!s85 0
+31
+R17
+R30
+R26
+!i113 0
+R27
+R28
+R29
+vaxi_tft_v2_0_23_tft_controller
+R16
+!i10b 1
+!s100 Wf[_f9mT9lia:[Z]lSW=92
+I3@KkTXZUWaG5R8m00aogg2
+R0
+R1
+R22
+R23
+!i122 1
+L0 2837 908
+R24
+R25
+r1
+!s85 0
+31
+R17
+R30
+R26
+!i113 0
+R27
+R28
+R29
+vaxi_tft_v2_0_23_tft_interface
+R16
+!i10b 1
+!s100 ][HQGDdgn7mDS6P<]Yo[83
+I3G:In>DJM18AC?MXh@9`32
+R0
+R1
+R22
+R23
+!i122 1
+L0 918 499
+R24
+R25
+r1
+!s85 0
+31
+R17
+R30
+R26
+!i113 0
+R27
+R28
+R29
+vaxi_tft_v2_0_23_v_sync
+R16
+!i10b 1
+!s100 9S4]?QlEG72A?ZII:<QY92
+I]Y3bdlWei5EUT<4]L^_=70
+R0
+R1
+R22
+R23
+!i122 1
+L0 515 293
+R24
+R25
+r1
+!s85 0
+31
+R17
+R30
+R26
+!i113 0
+R27
+R28
+R29

@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+v7I+iNpz6ZJTUHEZW1elpIaeA0aFavBa3X3Avi1yNEzA=
+Z1 !s110 1644241304
+!i10b 0
+!s100 NaLjQM8ag_f`kj48J0bKS2
+IZ61UEHTOnL7E76cSl@zj82
+!i119 1
+!i8a 1795378096
+R0
+Z2 w1644241304
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_jtag_v1_0/hdl/axi_jtag_v1_0_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_jtag_v1_0/hdl/axi_jtag_v1_0_vl_rfs.v
+!i122 0
+Z5 L0 82 1
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241304.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_jtag_v1_0/hdl/axi_jtag_v1_0_vl_rfs.v|
+Z9 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axi_jtag_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_jtag_v1_0_0/.cxl.verilog.axi_jtag_v1_0_0.axi_jtag_v1_0_0.lin64.cmf|
+!i113 0
+Z10 o-64 -work axi_jtag_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axi_jtag_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+nd0aab86
+vQb1NmCCLGovHQhd1VyAOrlDBeV9HtOhBpIW8EYdt2IU=
+R1
+!i10b 0
+!s100 RT>TUdCGndVVaOA5<S4TK3
+IUb7We1C<43IR_U2Uh<V=`3
+!i119 1
+!i8a 380776848
+R0
+R2
+R3
+R4
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_jtag_v1_0/hdl/axi_jtag_v1_0_vl_rfs.v|
+R9
+!i113 0
+R10
+R11
+R12
+n65c077
+v2Py3W/tof2mTH/AYt7qDqXqHw6FnmG0Nnuu+lEgv7q4=
+R1
+!i10b 0
+!s100 61OJBU2W8^4GZTglKF>jZ2
+IB;O5fKV=h?5CPgJALo1:N1
+!i119 1
+!i8a 3845696
+R0
+R2
+R3
+R4
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+n4cfa4c3

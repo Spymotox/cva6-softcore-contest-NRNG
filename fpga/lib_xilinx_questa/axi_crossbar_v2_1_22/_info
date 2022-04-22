@@ -1,0 +1,287 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxi_crossbar_v2_1_22_addr_arbiter
+Z1 !s110 1644241524
+!i10b 1
+!s100 njTA2jUTnm`1gX[ajI9Og1
+IXl;3dDLca?K0P9IC3[VU_2
+R0
+Z2 w1590640779
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_crossbar_v2_1/hdl/axi_crossbar_v2_1_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_crossbar_v2_1/hdl/axi_crossbar_v2_1_vl_rfs.v
+!i122 0
+L0 423 299
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z7 !s108 1644241524.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_crossbar_v2_1/hdl/axi_crossbar_v2_1_vl_rfs.v|
+Z8 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axi_crossbar_v2_1_22|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_crossbar_v2_1_22/.cxl.verilog.axi_crossbar_v2_1_22.axi_crossbar_v2_1_22.lin64.cmf|
+!i113 0
+Z9 o-64 -work axi_crossbar_v2_1_22 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axi_crossbar_v2_1_22 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vaxi_crossbar_v2_1_22_addr_arbiter_sasd
+R1
+!i10b 1
+!s100 l8nST]Ja;a_gLB^?nfeoE2
+IaB[zGf6:n3aN9BLL][c`K1
+R0
+R2
+R3
+R4
+!i122 0
+L0 65 290
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_crossbar_v2_1/hdl/axi_crossbar_v2_1_vl_rfs.v|
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_addr_decoder
+R1
+!i10b 1
+!s100 5RTfX5IaCcz?V2o9HPT`g2
+I6l1N=EMD1aQDmKAKe;^Ji2
+R0
+R2
+R3
+R4
+!i122 0
+L0 794 172
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_arbiter_resp
+Z13 !s110 1644241525
+!i10b 1
+!s100 ah:IjaEWnA5`MUXN]UNMn2
+IBe=15RNQZBXmCf<256P`B3
+R0
+R2
+R3
+R4
+!i122 0
+L0 1025 135
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_axi_crossbar
+R13
+!i10b 1
+!s100 B`?ioDl@Sh2[eXMMd_zG02
+IoaboE9VSL=;_a^;YNMXNZ0
+R0
+R2
+R3
+R4
+!i122 0
+L0 4884 917
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_crossbar
+R13
+!i10b 1
+!s100 LWnMke[VOg5@TO330f37?2
+I@^FS6AS807iDTARC7?cbJ2
+R0
+R2
+R3
+R4
+!i122 0
+L0 2239 1195
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_crossbar_sasd
+R13
+!i10b 1
+!s100 ATGJOWhiNPz0Tn[`MJc=X1
+IZJnILo0>m8m@LbIA>j7>k2
+R0
+R2
+R3
+R4
+!i122 0
+L0 1240 906
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_decerr_slave
+R13
+!i10b 1
+!s100 D;X[0?FkDXAeW^1S:5Peg2
+I4FNiUk><WEaEodX3k5S1h0
+R0
+R2
+R3
+R4
+!i122 0
+L0 3501 215
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_si_transactor
+R13
+!i10b 1
+!s100 QE8@@TMW]MVT_m]JR=]RY3
+IT4<4?WCcn64VKBM@R:83k1
+R0
+R2
+R3
+R4
+!i122 0
+L0 3800 586
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_splitter
+R13
+!i10b 1
+!s100 hNf<9MQRY2K3=@c;o^PYO3
+I>4TXaA[k9SYzZ;Be>S6T_0
+R0
+R2
+R3
+R4
+!i122 0
+L0 4461 31
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_wdata_mux
+R13
+!i10b 1
+!s100 UH2f8If0=]mK9o2OF?mLQ0
+IU[N01@k:RDP7NJFF;5iEi3
+R0
+R2
+R3
+R4
+!i122 0
+L0 4561 105
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_crossbar_v2_1_22_wdata_router
+R13
+!i10b 1
+!s100 z4nZ3z]cd^c9gM<gI=YbJ2
+I^L>19<UG:lzHQeUR@HPP@2
+R0
+R2
+R3
+R4
+!i122 0
+L0 4736 91
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

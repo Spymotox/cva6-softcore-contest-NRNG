@@ -1,0 +1,361 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Eaxi_hwicap
+Z1 w1590640535
+Z2 DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+Z3 DEx18 axi_hwicap_v3_0_25 6 hwicap 0 22 96gcgm6b5XBl0DcGbB^X83
+Z4 DEx24 interrupt_control_v3_1_4 17 interrupt_control 0 22 F89E`0?d<c6NgZNcFVl^;0
+Z5 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z6 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z7 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z8 DEx20 axi_lite_ipif_v3_0_4 13 axi_lite_ipif 0 22 C@:2Ph7;IGLbHe2l@iF9B0
+Z9 DPx20 axi_lite_ipif_v3_0_4 8 ipif_pkg 0 22 QY1GMlWOO]F<M]NPV0;PG3
+Z10 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z11 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z12 DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 QP:`ST7Am`B05z6NR4P3M0
+Z13 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z14 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z15 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_hwicap_v3_0/hdl/axi_hwicap_v3_0_vh_rfs.vhd
+Z16 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_hwicap_v3_0/hdl/axi_hwicap_v3_0_vh_rfs.vhd
+l0
+L4028 1
+V?>LA8T:X5C?AEz9n=78T>2
+!s100 U4h32:8FoIO@:NVJS;a0i3
+Z17 OL;C;2021.3_2;73
+31
+Z18 !s110 1644241620
+!i10b 1
+Z19 !s108 1644241620.000000
+Z20 !s90 -64|-93|-work|axi_hwicap_v3_0_25|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_hwicap_v3_0_25/.cxl.vhdl.axi_hwicap_v3_0_25.axi_hwicap_v3_0_25.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_hwicap_v3_0/hdl/axi_hwicap_v3_0_vh_rfs.vhd|
+!i113 0
+Z21 o-64 -93 -work axi_hwicap_v3_0_25
+Z22 tExplicit 1 CvgOpt 0
+Aimplementation
+R4
+DEx18 axi_hwicap_v3_0_25 13 hwicap_shared 0 22 [n0:fABcJ`0Q0U;N1WOjm3
+R3
+R8
+R2
+R5
+R6
+R7
+R9
+R10
+R11
+R12
+R13
+R14
+DEx4 work 10 axi_hwicap 0 22 ?>LA8T:X5C?AEz9n=78T>2
+!i122 0
+l4223
+L4098 420
+V[HIIGAh=>=7OKgQl0Wn_h0
+!s100 I;7hog`3ojd>CNGE0^YF`3
+R17
+31
+R18
+!i10b 1
+R19
+R20
+Z23 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_hwicap_v3_0/hdl/axi_hwicap_v3_0_vh_rfs.vhd|
+!i113 0
+R21
+R22
+Ehwicap
+R1
+R2
+R5
+R6
+Z24 DEx14 lib_cdc_v1_0_2 8 cdc_sync 0 22 IKUmIBRVig`LR@ZnI[GG92
+R9
+R10
+R11
+R12
+R7
+R13
+R14
+!i122 0
+R0
+R15
+R16
+l0
+L2792 1
+V96gcgm6b5XBl0DcGbB^X83
+!s100 lb_NC4Sz60=^G3mkhaj1_0
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Aimp
+R24
+DEx18 axi_hwicap_v3_0_25 17 icap_statemachine 0 22 abJUMKPKShQl3:D=UAA?E0
+Z25 DPx3 xpm 11 vcomponents 0 22 T[0[dMZKaF]em8R49B[GH2
+Z26 DEx18 axi_hwicap_v3_0_25 7 ipic_if 0 22 lYheGfYjK1MffgKDzZ99=1
+R2
+R5
+R6
+R9
+R10
+R11
+R12
+R7
+R13
+R14
+DEx4 work 6 hwicap 0 22 96gcgm6b5XBl0DcGbB^X83
+!i122 0
+l2915
+L2845 422
+VBY@>o5H9Y3D@lB@7@`LVW2
+!s100 7An@WfoRQ6KL>zQC62Sg?2
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Ehwicap_shared
+R1
+R2
+R5
+R6
+R24
+R9
+R10
+R11
+R12
+R7
+R13
+R14
+!i122 0
+R0
+R15
+R16
+l0
+L3396 1
+V[n0:fABcJ`0Q0U;N1WOjm3
+!s100 jQ[W;VO`o=bWAGT0DzEN81
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Aimp
+R24
+DEx18 axi_hwicap_v3_0_25 24 icap_statemachine_shared 0 22 7D>ozeSdFU2YD<LHa>^Wm2
+R25
+R26
+R2
+R5
+R6
+R9
+R10
+R11
+R12
+R7
+R13
+R14
+DEx4 work 13 hwicap_shared 0 22 [n0:fABcJ`0Q0U;N1WOjm3
+!i122 0
+l3528
+L3458 436
+Ve]D8SI>60PHMaK=C[OY8A3
+!s100 DgE`7=Zk8QzdXM`>3fRJ82
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Eicap_statemachine
+R1
+R9
+R12
+R11
+R10
+R7
+R13
+R14
+!i122 0
+R0
+R15
+R16
+l0
+L1521 1
+VabJUMKPKShQl3:D=UAA?E0
+!s100 8][83g?fUm0]a;aQDU8;K3
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Aimp
+R9
+R12
+R11
+R10
+R7
+R13
+R14
+DEx4 work 17 icap_statemachine 0 22 abJUMKPKShQl3:D=UAA?E0
+!i122 0
+l1592
+L1563 448
+Vdi[kdMS>IgFA;Sli_LiIT0
+!s100 fKL`3Soz4j8SBC08=H7g[1
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Eicap_statemachine_shared
+R1
+R9
+R12
+R11
+R10
+R7
+R13
+R14
+!i122 0
+R0
+R15
+R16
+l0
+L2124 1
+V7D>ozeSdFU2YD<LHa>^Wm2
+!s100 QH8T]mlFd2@aoWbajI^@h2
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Aimp
+R9
+R12
+R11
+R10
+R7
+R13
+R14
+DEx4 work 24 icap_statemachine_shared 0 22 7D>ozeSdFU2YD<LHa>^Wm2
+!i122 0
+l2205
+L2174 489
+V=8YbKl9eaA]?Jaj:;TLHa1
+!s100 AL4OlO_fAN<mcLAM:ij<[2
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Eipic_if
+R1
+R12
+R25
+R5
+R6
+Z27 DEx16 lib_fifo_v1_0_14 13 async_fifo_fg 0 22 Io0Ma[`3eMA9<4H`[YlCP0
+R2
+R10
+R11
+R7
+R13
+R14
+!i122 0
+R0
+R15
+R16
+l0
+L143 1
+VlYheGfYjK1MffgKDzZ99=1
+!s100 zEbQaVcjS4SW_74P004al0
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22
+Aimp
+R27
+R24
+R12
+R25
+R5
+R6
+R2
+R10
+R11
+R7
+R13
+R14
+DEx4 work 7 ipic_if 0 22 lYheGfYjK1MffgKDzZ99=1
+!i122 0
+l379
+L216 1191
+V^E5d39QhV:7FL`7hOZnKT0
+!s100 dBzFi];gP@V`IQKA[<7X<2
+R17
+31
+R18
+!i10b 1
+R19
+R20
+R23
+!i113 0
+R21
+R22

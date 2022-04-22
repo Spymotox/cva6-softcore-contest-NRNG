@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxis_ila_adv_trig_v1_0_0_adv_trigger
+Z1 !s110 1644241361
+!i10b 1
+!s100 J]a?2lFF:jmEHAHC?J:4^2
+I:GY>bZlO@GRzUhiZLIoNT3
+R0
+Z2 w1590640634
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_ila_adv_trig_v1_0/hdl/axis_ila_adv_trig_v1_0_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_ila_adv_trig_v1_0/hdl/axis_ila_adv_trig_v1_0_rfs.v
+!i122 0
+L0 23 180
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z7 !s108 1644241360.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_ila_adv_trig_v1_0/hdl/axis_ila_adv_trig_v1_0_rfs.v|
+Z8 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axis_ila_adv_trig_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axis_ila_adv_trig_v1_0_0/.cxl.verilog.axis_ila_adv_trig_v1_0_0.axis_ila_adv_trig_v1_0_0.lin64.cmf|
+!i113 0
+Z9 o-64 -work axis_ila_adv_trig_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axis_ila_adv_trig_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vaxis_ila_adv_trig_v1_0_0_adv_trigger_sequencer
+R1
+!i10b 1
+!s100 aCJc]XQ?WgQ=UAI;LXao63
+ICMMzf79?9Y[CUWHD9c_4e1
+R0
+R2
+R3
+R4
+!i122 0
+L0 227 417
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_ila_adv_trig_v1_0/hdl/axis_ila_adv_trig_v1_0_rfs.v|
+R8
+!i113 0
+R9
+R10
+R11
+vaxis_ila_adv_trig_v1_0_0_generic_counter
+R1
+!i10b 1
+!s100 4mP11_Q645zR?_YNIQ>V>3
+I<mfAFPdakR6n>3<lDZYLN2
+R0
+R2
+R3
+R4
+!i122 0
+L0 720 99
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxis_ila_adv_trig_v1_0_0_ila_counter
+R1
+!i10b 1
+!s100 Ed_JgUJKjHJNnc[JRQAh?0
+IjoXVa_j06g>Obd=R[I^C11
+R0
+R2
+R3
+R4
+!i122 0
+L0 668 50
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxis_ila_adv_trig_v1_0_0_ila_fsm_memory_read
+R1
+!i10b 1
+!s100 f5OV5YU<;AzV5J[j5L>_=1
+ILTn1=Vl4R_3<goP8]8LTT2
+R0
+R2
+R3
+R4
+!i122 0
+L0 843 90
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

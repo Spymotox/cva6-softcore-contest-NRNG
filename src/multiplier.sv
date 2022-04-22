@@ -37,6 +37,7 @@ module multiplier import ariane_pkg::*; (
     // control registers
     logic                       sign_a, sign_b;
     logic                       mult_valid;
+    
 
     // control signals
     assign mult_valid_o    = mult_valid_q;
@@ -69,7 +70,7 @@ module multiplier import ariane_pkg::*; (
 
 
     // single stage version
-    assign mult_result_d   = $signed({operand_a_i[riscv::XLEN-1] & sign_a, operand_a_i}) *
+    assign mult_result_d   = (operand_a_i==32'h00000000 | operand_b_i==32'h00000000) ? 64'h0000000000000000 : $signed({operand_a_i[riscv::XLEN-1] & sign_a, operand_a_i}) *
                              $signed({operand_b_i[riscv::XLEN-1] & sign_b, operand_b_i});
 
 

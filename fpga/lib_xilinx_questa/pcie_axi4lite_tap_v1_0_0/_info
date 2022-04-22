@@ -1,0 +1,172 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vpcie_axi4lite_tap_v1_0_0_axi_read_controller
+Z1 !s110 1644241250
+!i10b 1
+!s100 X:eGSQ>1>8WH8L2N=YP^L2
+IbKLdBS_mn?M2c21A79FCJ0
+R0
+Z2 w1590640549
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/pcie_axi4lite_tap_v1_0/hdl/pcie_axi4lite_tap_v1_0_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/pcie_axi4lite_tap_v1_0/hdl/pcie_axi4lite_tap_v1_0_vl_rfs.v
+!i122 0
+L0 52 166
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z7 !s108 1644241250.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/pcie_axi4lite_tap_v1_0/hdl/pcie_axi4lite_tap_v1_0_vl_rfs.v|
+Z8 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|pcie_axi4lite_tap_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/pcie_axi4lite_tap_v1_0_0/.cxl.verilog.pcie_axi4lite_tap_v1_0_0.pcie_axi4lite_tap_v1_0_0.lin64.cmf|
+!i113 0
+Z9 o-64 -work pcie_axi4lite_tap_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work pcie_axi4lite_tap_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vpcie_axi4lite_tap_v1_0_0_axi_write_controller
+R1
+!i10b 1
+!s100 k^F50i5UTi9<XaOJ6mTXS0
+ICGL:<PUQbA=NZQKZa7k753
+R0
+R2
+R3
+R4
+!i122 0
+L0 1609 237
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/pcie_axi4lite_tap_v1_0/hdl/pcie_axi4lite_tap_v1_0_vl_rfs.v|
+R8
+!i113 0
+R9
+R10
+R11
+vpcie_axi4lite_tap_v1_0_0_axis_cc_controller
+R1
+!i10b 1
+!s100 >oX^YoF`]28SN:e9OZS;^2
+Id2[G6Ai25`B=]Xk^COBj@3
+R0
+R2
+R3
+R4
+!i122 0
+L0 272 560
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vpcie_axi4lite_tap_v1_0_0_axis_cq_controller
+R1
+!i10b 1
+!s100 U]bL>[MC;REcFlUa:0ES01
+IA2e5i2<0[ADCBo?SaPHoX1
+R0
+R2
+R3
+R4
+!i122 0
+L0 886 669
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vpcie_axi4lite_tap_v1_0_0_maxi_controller
+R1
+!i10b 1
+!s100 CWMRRF34^<cID`=SZ;5jL1
+IV7HJ;8ki<oI9KNH2WN4`i0
+R0
+R2
+R3
+R4
+!i122 0
+L0 1901 176
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vpcie_axi4lite_tap_v1_0_0_tag_manager
+R1
+!i10b 1
+!s100 ?PCCG6fSE<`23COSH45AP0
+IeUP5V?48U?8YVY<Fm]QRo0
+R0
+R2
+R3
+R4
+!i122 0
+L0 2132 77
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vpcie_axi4lite_tap_v1_0_0_top
+R1
+!i10b 1
+!s100 _coZ585@=iI]gJ9S`D<[@3
+ID`?@mIDicWaXA^R?8Cac[3
+R0
+R2
+R3
+R4
+!i122 0
+L0 2263 323
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

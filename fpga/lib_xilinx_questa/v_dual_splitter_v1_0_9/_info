@@ -1,0 +1,202 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Efifo_generator_0
+Z1 w1590640556
+Z2 DEx22 fifo_generator_v13_0_6 22 fifo_generator_v13_0_6 0 22 ZiC1;H0KCC4DbbPz<DX_T3
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z6 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/v_dual_splitter_v1_0/hdl/v_dual_splitter_v1_0_rfs.vhd
+Z7 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/v_dual_splitter_v1_0/hdl/v_dual_splitter_v1_0_rfs.vhd
+l0
+L59 1
+V6IN1YfC4872b>aViY;Y4V1
+!s100 ;9a8<2;8Rn:kQC0hkdmHh1
+Z8 OL;C;2021.3_2;73
+31
+Z9 !s110 1644241728
+!i10b 1
+Z10 !s108 1644241728.000000
+Z11 !s90 -64|-93|-work|v_dual_splitter_v1_0_9|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/v_dual_splitter_v1_0_9/.cxl.vhdl.v_dual_splitter_v1_0_9.v_dual_splitter_v1_0_9.lin64.cmf|
+Z12 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/v_dual_splitter_v1_0/hdl/v_dual_splitter_v1_0_rfs.vhd|
+!i113 0
+Z13 o-64 -93 -work v_dual_splitter_v1_0_9
+Z14 tExplicit 1 CvgOpt 0
+Afifo_generator_0_arch
+R3
+R4
+R5
+DEx4 work 16 fifo_generator_0 0 22 6IN1YfC4872b>aViY;Y4V1
+!i122 0
+l538
+L77 778
+ViCkf?P7G`XF;AbQ>i45QS2
+!s100 NlUnU@g2ia;?5FB^GKUV@0
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Efifo_generator_1
+R1
+R2
+R3
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+L915 1
+VlV>mnh?aVIROYSd]S]U^F1
+!s100 eW7WnAJVaV5en4DnD1Un;2
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Afifo_generator_1_arch
+R3
+R4
+R5
+DEx4 work 16 fifo_generator_1 0 22 lV>mnh?aVIROYSd]S]U^F1
+!i122 0
+l1394
+L933 778
+Va1Ihcm?c032BMR595;OJ21
+!s100 lFM>;dQ1Jz0f=mSjLNUMT1
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+vv_dual_splitter_v1_0_9
+Z15 !s110 1644241729
+!i10b 1
+!s100 <d>m;j9OGGP2G5?bJ;LI>3
+Ii4Q=84G[ZnfMMX;1]GaKI2
+R0
+R1
+Z16 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/v_dual_splitter_v1_0/hdl/v_dual_splitter_v1_0_rfs.v
+Z17 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/v_dual_splitter_v1_0/hdl/v_dual_splitter_v1_0_rfs.v
+!i122 1
+L0 266 295
+Z18 VDg1SIo80bB@j0V0VzS_@n1
+Z19 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z20 !s108 1644241729.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/v_dual_splitter_v1_0/hdl/v_dual_splitter_v1_0_rfs.v|
+Z21 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|v_dual_splitter_v1_0_9|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/v_dual_splitter_v1_0_9/.cxl.verilog.v_dual_splitter_v1_0_9.v_dual_splitter_v1_0_9.lin64.cmf|
+!i113 0
+Z22 o-64 -work v_dual_splitter_v1_0_9 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z23 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work v_dual_splitter_v1_0_9 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z24 tCvgOpt 0
+vv_dual_splitter_v1_0_9_core
+R15
+!i10b 1
+!s100 h2DH=LdGX^4JdR=H[<XRL3
+IAMY3`8QC:1N^5FC`cd01E2
+R0
+R1
+R16
+R17
+!i122 1
+L0 4 259
+R18
+R19
+r1
+!s85 0
+31
+R20
+Z25 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/v_dual_splitter_v1_0/hdl/v_dual_splitter_v1_0_rfs.v|
+R21
+!i113 0
+R22
+R23
+R24
+Evideo_ctrl_wrapper
+R1
+Z26 DPx12 v_tc_v6_1_13 14 video_ctrl_pkg 0 22 YdJ0fYaT5TSgceh03:]G92
+R3
+Z27 DPx12 v_tc_v6_1_13 7 hwt_pkg 0 22 ]Ydaj[B`?IO8FJD@Bfhin2
+Z28 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z29 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+L1778 1
+VDY9^kMjYP43PB9=hF]D@f0
+!s100 19oaSZ=97:?3I2I0PZDDX2
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14
+Artl
+DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+DPx20 axi_lite_ipif_v3_0_4 8 ipif_pkg 0 22 QY1GMlWOO]F<M]NPV0;PG3
+DEx12 v_tc_v6_1_13 10 video_ctrl 0 22 @^PE?k<7eL7Az06J>[lFP3
+R26
+R3
+R27
+R28
+R29
+R4
+R5
+DEx4 work 18 video_ctrl_wrapper 0 22 DY9^kMjYP43PB9=hF]D@f0
+!i122 0
+l1921
+L1853 182
+VQbK06`dHUHPH5:;L<f8_k3
+!s100 jn:2GCQe7Ec9W>7RiUMO60
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 0
+R13
+R14

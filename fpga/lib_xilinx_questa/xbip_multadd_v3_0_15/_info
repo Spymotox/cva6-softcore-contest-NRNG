@@ -1,0 +1,350 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+ET8bK2nt4DLkLtEQ6hJTW6w==
+Z1 w1590640561
+Z2 DPx20 xbip_multadd_v3_0_15 24 xbip_multadd_v3_0_15_pkg 0 22 ooY^<l`dA<`ELKeXKBzHa1
+Z3 DPx24 xbip_dsp48_addsub_v3_0_6 33 xbip_dsp48_addsub_v3_0_6_viv_comp 0 22 ^A?XiIk>JANlVd:E4ZGI40
+Z4 DPx16 xbip_pipe_v3_0_6 25 xbip_pipe_v3_0_6_viv_comp 0 22 QJ0G5LjCzVP<l7NSQQ[Bi2
+Z5 DPx17 mult_gen_v12_0_16 21 mult_gen_v12_0_16_pkg 0 22 @VKNm2R6LYm8DNdo:?QFe1
+Z6 DPx18 xbip_utils_v3_0_10 22 xbip_utils_v3_0_10_pkg 0 22 73?UW1kUzG9EYWmoWD_AL3
+Z7 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z8 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z9 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z10 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z11 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z12 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/xbip_multadd_v3_0/hdl/xbip_multadd_v3_0_vh_rfs.vhd
+Z13 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/xbip_multadd_v3_0/hdl/xbip_multadd_v3_0_vh_rfs.vhd
+l0
+Z14 L82 1
+V17BoabOJhV5dogEZI1bBk1
+!s100 oJmiiU_O@OiQYUKY]214G2
+Z15 OL;C;2021.3_2;73
+!i119 1
+!i8a 825834528
+31
+Z16 !s110 1644241646
+!i10b 1
+Z17 !s108 1644241646.000000
+Z18 !s90 -64|-93|-work|xbip_multadd_v3_0_15|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/xbip_multadd_v3_0_15/.cxl.vhdl.xbip_multadd_v3_0_15.xbip_multadd_v3_0_15.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/xbip_multadd_v3_0/hdl/xbip_multadd_v3_0_vh_rfs.vhd|
+!i113 0
+Z19 o-64 -93 -work xbip_multadd_v3_0_15
+Z20 tExplicit 1 CvgOpt 0
+nab22110
+AR3wQkjTKmPWd7I+NfF/Jlg==
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 10 addsub_dsp 0 22 17BoabOJhV5dogEZI1bBk1
+!i122 0
+l82
+R14
+VL=YjDJ4L0=^0oDH?jIio;1
+!s100 3O8P6[cJ[6CE@4b>Bhd`H2
+R15
+!i119 1
+!i8a 486099344
+31
+R16
+!i10b 1
+R17
+R18
+Z21 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/xbip_multadd_v3_0/hdl/xbip_multadd_v3_0_vh_rfs.vhd|
+!i113 0
+R19
+R20
+n67abab2
+Ey6HNZvGqsVTVm0/0pGHJkA==
+R1
+R2
+Z22 DPx17 mult_gen_v12_0_16 26 mult_gen_v12_0_16_viv_comp 0 22 6:X_7k^I>Nb:XXAne:T2d0
+R5
+Z23 DPx25 xbip_dsp48_multadd_v3_0_6 34 xbip_dsp48_multadd_v3_0_6_viv_comp 0 22 F43J?aBD=j>eU5E_UV7k;2
+R6
+R7
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+R14
+VNg4:HgO9_j<Sk3zYM]iaU2
+!s100 =eb1C86[hl6h8lD_]<BHf2
+R15
+!i119 1
+!i8a 1599550176
+31
+R16
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+n7de9800
+AWVEuv9vs2Y9LqNHl2Kh1rA==
+DPx17 mult_gen_v12_0_16 7 dsp_pkg 0 22 B3b=D>76SVeVQ7ZJbRFQ`1
+DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+R8
+R9
+DEx17 mult_gen_v12_0_16 3 dsp 0 22 Ja>0]0dFhoD8MIjMJ:S_J3
+R2
+R22
+R5
+R23
+R6
+R7
+R10
+R11
+DEx4 work 11 multadd_dsp 0 22 Ng4:HgO9_j<Sk3zYM]iaU2
+!i122 0
+l82
+R14
+VfgLm^<V53ghHWkl[^TaJ[2
+!s100 YIT<X6blL>MHz4LP[9QnX1
+R15
+!i119 1
+!i8a 1221653552
+31
+Z24 !s110 1644241647
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+n7f03058
+E8dKy1M3XX5pjju4yVqNHZQZcMMY9CR+XYd28oUM6RzM=
+R1
+Z25 DPx20 xbip_multadd_v3_0_15 29 xbip_multadd_v3_0_15_viv_comp 0 22 ^AS0OK@H6`5OW4[SaHi0U1
+R6
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+R14
+V8Ei7ZMhkeUQkPg;>An9UP2
+!s100 hSo8mm5P>Wb?_@2d]?VWX3
+R15
+!i119 1
+!i8a 1372119824
+31
+R24
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+n333a945
+Aqfw8d/NOeSheIDwr2N4K7g==
+R25
+R6
+R10
+R11
+DEx4 work 20 xbip_multadd_v3_0_15 0 22 8Ei7ZMhkeUQkPg;>An9UP2
+!i122 0
+l82
+R14
+VhV>Kk61UTi9Ca9hkm?<WP0
+!s100 I]1klQc@oBk4^5D<CG>ob3
+R15
+!i119 1
+!i8a 1101109600
+31
+R24
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+n7f03059
+PhjJnqFEOn+S2jx7zdQlb25FCbXGrZKQHqbZvvv3tRY8=
+R6
+R10
+R11
+!i122 0
+R1
+R0
+R12
+R13
+l0
+R14
+VmNY7[IF7Qm^dB9WAbo1a_3
+!s100 V8J04Dmi_@oo7A>XWdI_k1
+R15
+!i119 1
+!i8a 1945353920
+31
+R16
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+n4a6c0d0
+P/O4Aazsd+BPBEnp+p1YbdikhWmGZiL+LPBVgMUgjFOA=
+R7
+R5
+R6
+R10
+R11
+!i122 0
+R1
+R0
+R12
+R13
+l0
+R14
+VooY^<l`dA<`ELKeXKBzHa1
+!s100 WQ3ZNWo=TY;5]CW^PLm7Z3
+R15
+!i119 1
+!i8a 1463838336
+31
+b1
+R16
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+n94a56b7
+BelNkIjITCypQJ2jwm/51jA==
+DPx4 work 24 xbip_multadd_v3_0_15_pkg 0 22 ooY^<l`dA<`ELKeXKBzHa1
+R7
+R5
+R6
+R10
+R11
+!i122 0
+l0
+R14
+Vg]4F]O4nF2h^CjinJo_9g3
+!s100 o^43BmojZX7mTz`cbokj03
+R15
+!i119 1
+!i8a 403548400
+31
+R16
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+nbody
+Ej1y+QQRzKjfcbSoYjo+OC4oXgTAQGZ/42adggtwXMxE=
+R1
+R2
+R5
+R6
+R7
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+R14
+V]d@i7ii:1Bo<VI83;WEOd1
+!s100 kI1KgYIXmgcEm?aZkYeKl3
+R15
+!i119 1
+!i8a 1680922528
+31
+R24
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+n94a60a6
+AX1mobadzu0ep6rQ/tgNI3w==
+R2
+R5
+R6
+R7
+R10
+R11
+DEx4 work 24 xbip_multadd_v3_0_15_viv 0 22 ]d@i7ii:1Bo<VI83;WEOd1
+!i122 0
+l82
+R14
+Va=H]gV9Lzj@=CZV>>T>1h3
+!s100 ;f=a[g`naa[cM:9>N89b^2
+R15
+!i119 1
+!i8a 1100400384
+31
+R24
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+n7b05a8
+PVrWj9JJCkkIRm+o2PsV6/2nCZYLUe8Ct9jDx4c36qIM=
+R6
+R10
+R11
+!i122 0
+R1
+R0
+R12
+R13
+l0
+R14
+V^AS0OK@H6`5OW4[SaHi0U1
+!s100 bkfD;I_QH7=4VTc7W3aV72
+R15
+!i119 1
+!i8a 1786407792
+31
+R16
+!i10b 1
+R17
+R18
+R21
+!i113 0
+R19
+R20
+na314440

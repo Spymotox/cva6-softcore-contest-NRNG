@@ -1,0 +1,357 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxi_register_slice_v2_1_21_auto_dest
+Z1 !s110 1644241462
+!i10b 1
+!s100 eaTzaJI;;oe2fzbLZ2<ZA2
+IYCo@Ll`TcBmSgXQ7B17`]1
+R0
+Z2 w1590640763
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_register_slice_v2_1/hdl/axi_register_slice_v2_1_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_register_slice_v2_1/hdl/axi_register_slice_v2_1_vl_rfs.v
+!i122 0
+L0 1308 103
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z7 !s108 1644241461.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axi_infrastructure_v1_1_0.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_register_slice_v2_1/hdl/axi_register_slice_v2_1_vl_rfs.v|
+Z8 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axi_register_slice_v2_1_21|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_register_slice_v2_1_21/.cxl.verilog.axi_register_slice_v2_1_21.axi_register_slice_v2_1_21.lin64.cmf|
+!i113 0
+Z9 o-64 -work axi_register_slice_v2_1_21 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axi_register_slice_v2_1_21 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vaxi_register_slice_v2_1_21_auto_slr
+R1
+!i10b 1
+!s100 m[3?=Bd@U>9IzKi2n;ih22
+IjBi_ngjgeicBJ9mOzUUMG1
+R0
+R2
+R3
+R4
+!i122 0
+L0 1135 87
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axi_infrastructure_v1_1_0.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_register_slice_v2_1/hdl/axi_register_slice_v2_1_vl_rfs.v|
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_auto_src
+R1
+!i10b 1
+!s100 5L=<`:cd?HP^Kd6QgifMF0
+I7T:I1SKkDAh@:iSk:B[`[2
+R0
+R2
+R3
+R4
+!i122 0
+L0 1223 84
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_axi_register_slice
+R1
+!i10b 1
+!s100 S?C?3nUT>6[id<VHn;Z]k0
+IEg=mFU;dm`GGhF];7K8o92
+R0
+R2
+R3
+R4
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axi_infrastructure_v1_1_0.vh
+!i122 0
+L0 3726 1254
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_axic_reg_srl_fifo
+R1
+!i10b 1
+!s100 W[c[9UK?=3EdFJkCAz2<l1
+IPdd@i9=>z<zRaJRLYRXn<1
+R0
+R2
+R3
+R4
+!i122 0
+L0 3442 219
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_axic_register_slice
+R1
+!i10b 1
+!s100 Y[Y5c6DNo<WlHnz@W9RH<1
+IYXG9EDgi8073gX;hdoddM1
+R0
+R2
+R3
+R4
+!i122 0
+L0 1498 641
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_dest_region_slr
+R1
+!i10b 1
+!s100 l0FoKmabc[ZH9mYXm<1W<2
+Il2;Ez3TGZ598`BCChJmh33
+R0
+R2
+R3
+R4
+!i122 0
+L0 3038 239
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_middle_region_slr
+R1
+!i10b 1
+!s100 kmeFNb:[0?ZLE8d[Z9i1]3
+I4@TUZI4<4[IeLU4nU[Vo62
+R0
+R2
+R3
+R4
+!i122 0
+L0 2713 138
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_multi_slr
+R1
+!i10b 1
+!s100 KUiOMeVTT=9:ckK6J[R@62
+IkdVWFnN9XMS4[4DKkzU^B0
+R0
+R2
+R3
+R4
+!i122 0
+L0 2201 509
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_single_slr
+R1
+!i10b 1
+!s100 CZg=ejn22cI5SA5NeYJng2
+I80D=fZgg:EmV2cK0In]8O2
+R0
+R2
+R3
+R4
+!i122 0
+L0 3280 160
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_source_region_slr
+R1
+!i10b 1
+!s100 7390];KkR@bIDS9MSRMAB1
+I]1LzC0:Gl2jj?:`cbNmMY2
+R0
+R2
+R3
+R4
+!i122 0
+L0 2854 181
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_srl_rtl
+R1
+!i10b 1
+!s100 1EGWM:n?ZYX53Eaa0ci1a1
+IEoiHHLH[zR^;KR1nUX6^o0
+R0
+R2
+R3
+R4
+!i122 0
+L0 1474 21
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_tdm_sample
+R1
+!i10b 1
+!s100 46LRdjihc;;iQMZYEd5l20
+I?TH;k`@X1=10i1;4FRhWQ1
+R0
+R2
+R3
+R4
+!i122 0
+L0 1031 50
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_test_master
+R1
+!i10b 1
+!s100 cIIL<X]Z9N6P8AZDF=:H^2
+IaM8Io1TSClRQI9]5XODXo2
+R0
+R2
+R3
+R4
+!i122 0
+L0 50 469
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_register_slice_v2_1_21_test_slave
+R1
+!i10b 1
+!s100 hYj<L2MJd^8OYnUGnYCW01
+IP<L=hIn[]g0]cgBDegM7C0
+R0
+R2
+R3
+R4
+!i122 0
+L0 572 406
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

@@ -1,0 +1,282 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+EVnSd1mYILIeTFYiDbAd0rqCLAT35E6c9HA/TRNh1B0E=
+Z1 w1590640561
+Z2 DPx17 xbip_accum_v3_0_6 21 xbip_accum_v3_0_6_pkg 0 22 59X6=UU8@CBkgmU0aBm@91
+Z3 DPx16 xbip_pipe_v3_0_6 25 xbip_pipe_v3_0_6_viv_comp 0 22 QJ0G5LjCzVP<l7NSQQ[Bi2
+Z4 DPx18 xbip_utils_v3_0_10 22 xbip_utils_v3_0_10_pkg 0 22 73?UW1kUzG9EYWmoWD_AL3
+Z5 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z6 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z7 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z10 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/xbip_accum_v3_0/hdl/xbip_accum_v3_0_vh_rfs.vhd
+Z11 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/xbip_accum_v3_0/hdl/xbip_accum_v3_0_vh_rfs.vhd
+l0
+Z12 L82 1
+V5_93e6h8_1QHF7]AJInF01
+!s100 KcbzIYhA:TnXk<6TFYDIi2
+Z13 OL;C;2021.3_2;73
+!i119 1
+!i8a 86877920
+31
+Z14 !s110 1644241624
+!i10b 1
+Z15 !s108 1644241623.000000
+Z16 !s90 -64|-93|-work|xbip_accum_v3_0_6|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/xbip_accum_v3_0_6/.cxl.vhdl.xbip_accum_v3_0_6.xbip_accum_v3_0_6.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/xbip_accum_v3_0/hdl/xbip_accum_v3_0_vh_rfs.vhd|
+!i113 0
+Z17 o-64 -93 -work xbip_accum_v3_0_6
+Z18 tExplicit 1 CvgOpt 0
+n7f504fd
+A7Hs8cTRtyQrNzDNGJ9opcA==
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 18 fabric_piped_accum 0 22 5_93e6h8_1QHF7]AJInF01
+!i122 0
+l82
+R12
+V@WP@PQ?VINc]UeE211ich3
+!s100 >2je57U:@881?U5In4WfG3
+R13
+!i119 1
+!i8a 388242160
+31
+R14
+!i10b 1
+R15
+R16
+Z19 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/xbip_accum_v3_0/hdl/xbip_accum_v3_0_vh_rfs.vhd|
+!i113 0
+R17
+R18
+n7b05a8
+EqBVHGXXe3IJBQ85eQxW2RlNOvcpCRKogz5XaRVd30X0=
+R1
+Z20 DPx17 xbip_accum_v3_0_6 26 xbip_accum_v3_0_6_viv_comp 0 22 MiLWhjKfNPS2hQ>3gK]X=3
+R8
+R9
+!i122 0
+R0
+R10
+R11
+l0
+R12
+V3JXJlzIg7H;EGZVOfbKWI1
+!s100 FoXUkL3kG]c]mfLb9jDmR2
+R13
+!i119 1
+!i8a 1365407520
+31
+R14
+!i10b 1
+R15
+R16
+R19
+!i113 0
+R17
+R18
+n3a01a76
+AS8iyO16mKEKKMJf+cojwBQ==
+R20
+R8
+R9
+DEx4 work 17 xbip_accum_v3_0_6 0 22 3JXJlzIg7H;EGZVOfbKWI1
+!i122 0
+l82
+R12
+VQLe@JV34kSP;j7Db;[RX51
+!s100 @?B[il84WT4;cAFlZF6`31
+R13
+!i119 1
+!i8a 1124777648
+31
+R14
+!i10b 1
+R15
+R16
+R19
+!i113 0
+R17
+R18
+n7f03058
+PoYYpT8TvIW2LpF1vtusG8Wj8OKgnohaG+DtUaGfWJX4=
+R8
+R9
+!i122 0
+R1
+R0
+R10
+R11
+l0
+R12
+V]<<=C8@gC>c0@d7OW@V`C0
+!s100 Z][=Voa2dAV3O_Zlz3XJb0
+R13
+!i119 1
+!i8a 1158864624
+31
+R14
+!i10b 1
+R15
+R16
+R19
+!i113 0
+R17
+R18
+n79fa5e0
+P/2wGeXHHL5okgfDrp6aZ1zvahvkQOwBdtjgGZbPheSo=
+R4
+R6
+R7
+R8
+R9
+!i122 0
+R1
+R0
+R10
+R11
+l0
+R12
+V59X6=UU8@CBkgmU0aBm@91
+!s100 zf[VzQhSdi98T_25P]Llf3
+R13
+!i119 1
+!i8a 1038059744
+31
+b1
+R14
+!i10b 1
+R15
+R16
+R19
+!i113 0
+R17
+R18
+na79c707
+BAJTqbUItz79iaNF30hNl/A==
+DPx4 work 21 xbip_accum_v3_0_6_pkg 0 22 59X6=UU8@CBkgmU0aBm@91
+R4
+R6
+R7
+R8
+R9
+!i122 0
+l0
+R12
+VZL:eIP`>E8Oj<Oo8d0BbW3
+!s100 WPbkHB@[:=oz;[B4;5Dl02
+R13
+!i119 1
+!i8a 1477706400
+31
+R14
+!i10b 1
+R15
+R16
+R19
+!i113 0
+R17
+R18
+nbody
+ExiH0XNAxqU6EUQmy8ffG1cBnBRmD7nzZ4XF2V6w811Q=
+R1
+R6
+R7
+R2
+Z21 DPx21 xbip_dsp48_acc_v3_0_6 30 xbip_dsp48_acc_v3_0_6_viv_comp 0 22 C?8oAHUYo>I^;<MV>1Peb3
+R4
+R5
+R8
+R9
+!i122 0
+R0
+R10
+R11
+l0
+R12
+VSDBBzNYYcVjbMbCLC?[=g1
+!s100 BWX]g?c6cNH[ZZ[z<?8j;3
+R13
+!i119 1
+!i8a 36386176
+31
+R14
+!i10b 1
+R15
+R16
+R19
+!i113 0
+R17
+R18
+na79cd16
+A+yIWoe/6QaRfwRm7uR7hmQ==
+R6
+R7
+R2
+R21
+R4
+R5
+R8
+R9
+DEx4 work 21 xbip_accum_v3_0_6_viv 0 22 SDBBzNYYcVjbMbCLC?[=g1
+!i122 0
+l82
+R12
+VEX?ldcFBi85VYLN0jo4^;2
+!s100 jTOJV]VUnYLYiOH2``DVE3
+R13
+!i119 1
+!i8a 897786752
+31
+R14
+!i10b 1
+R15
+R16
+R19
+!i113 0
+R17
+R18
+n7b05a9
+Pm0qU0MXZ3b7sL2BoPykQs5QseGnsDE2q3xFGAKvpkko=
+R8
+R9
+!i122 0
+R1
+R0
+R10
+R11
+l0
+R12
+VMiLWhjKfNPS2hQ>3gK]X=3
+!s100 Ya3[:@OSgnckfUUfVaMMF1
+R13
+!i119 1
+!i8a 1097040464
+31
+R14
+!i10b 1
+R15
+R16
+R19
+!i113 0
+R17
+R18
+n1221a90

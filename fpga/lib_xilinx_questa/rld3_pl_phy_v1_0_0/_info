@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vrld3_pl_phy_v1_0_0_pll
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1644241050
+!i10b 1
+!s100 h3BYLfB<2ZYnElaaa<59:1
+I7h4@CZ=Dj7;M4E>oTKT>Q1
+S1
+R0
+Z3 w1590640552
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/clocking/rld3_pl_phy_v1_0_pll.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/clocking/rld3_pl_phy_v1_0_pll.sv
+!i122 0
+L0 79 436
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z6 !s108 1644241050.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/clocking/rld3_pl_phy_v1_0_pll.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/xphy_bank/rld3_pl_phy_v1_0_xphy_bank_wrapper.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/xphy_bank/rld3_pl_phy_v1_0_xphy_bank.sv|
+Z7 !s90 -64|-L|rld3_pl_phy_v1_0_0|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-sv|-svinputport=relaxed|-work|rld3_pl_phy_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/rld3_pl_phy_v1_0_0/.cxl.systemverilog.rld3_pl_phy_v1_0_0.rld3_pl_phy_v1_0_0.lin64.cmf|
+!i113 0
+Z8 o-64 -L rld3_pl_phy_v1_0_0 -sv -svinputport=relaxed -work rld3_pl_phy_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -64 -L rld3_pl_phy_v1_0_0 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -sv -svinputport=relaxed -work rld3_pl_phy_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vrld3_pl_phy_v1_0_0_xphy_bank
+R1
+R2
+!i10b 1
+!s100 8neWZ`3B;k73P>SegZVMR2
+ICS[K6YHOi>_R<XG?PRg[P3
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/xphy_bank/rld3_pl_phy_v1_0_xphy_bank.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/xphy_bank/rld3_pl_phy_v1_0_xphy_bank.sv
+!i122 0
+L0 49 1289
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/clocking/rld3_pl_phy_v1_0_pll.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/xphy_bank/rld3_pl_phy_v1_0_xphy_bank_wrapper.sv|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/xphy_bank/rld3_pl_phy_v1_0_xphy_bank.sv|
+R7
+!i113 0
+R8
+R9
+R10
+vrld3_pl_phy_v1_0_0_xphy_bank_wrapper
+R1
+R2
+!i10b 1
+!s100 J<Q8JF?ICg[E_3QWT;MO60
+IgnPG:bdKkX33;WnADP9`^3
+S1
+R0
+R3
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/xphy_bank/rld3_pl_phy_v1_0_xphy_bank_wrapper.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/rld3_pl_phy_v1_0/hdl/xphy_bank/rld3_pl_phy_v1_0_xphy_bank_wrapper.sv
+!i122 0
+L0 72 334
+R4
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10

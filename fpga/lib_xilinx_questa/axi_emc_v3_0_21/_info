@@ -1,0 +1,409 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Eaxi_emc
+Z1 w1590640534
+Z2 DPx15 axi_emc_v3_0_21 7 emc_pkg 0 22 [X2ej=zU>::O[F3]h_fBl2
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z7 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z8 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z9 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z10 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z11 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z12 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_emc_v3_0/hdl/axi_emc_v3_0_vh_rfs.vhd
+Z13 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_emc_v3_0/hdl/axi_emc_v3_0_vh_rfs.vhd
+l0
+L3428 1
+VeiX9Hn8Bjo6CCN?LR;GY72
+!s100 3Z9h0X69bgCeDV9eM`7Ve3
+Z14 OL;C;2021.3_2;73
+31
+Z15 !s110 1644241477
+!i10b 1
+Z16 !s108 1644241476.000000
+Z17 !s90 -64|-93|-work|axi_emc_v3_0_21|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_emc_v3_0_21/.cxl.vhdl.axi_emc_v3_0_21.axi_emc_v3_0_21.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_emc_v3_0/hdl/axi_emc_v3_0_vh_rfs.vhd|
+!i113 0
+Z18 o-64 -93 -work axi_emc_v3_0_21
+Z19 tExplicit 1 CvgOpt 0
+Aimp
+DEx15 axi_emc_v3_0_21 15 startup_wrapper 0 22 ;6OMHJ_7Ma>n;U2V?5<7S2
+DEx17 emc_common_v3_0_5 3 emc 0 22 dOK2A=YJ=T^]gPT;@bVlk3
+DEx15 axi_emc_v3_0_21 24 axi_emc_native_interface 0 22 PGPGd]n>66Ck]MFP8KRRi3
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 7 axi_emc 0 22 eiX9Hn8Bjo6CCN?LR;GY72
+!i122 0
+l4225
+L3738 2976
+VL1Vfc=^ocl_?Sok<WO=gz3
+!s100 kIDF<eV1<XJY9W^FkXcFf0
+R14
+31
+R15
+!i10b 1
+R16
+R17
+Z20 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_emc_v3_0/hdl/axi_emc_v3_0_vh_rfs.vhd|
+!i113 0
+R18
+R19
+Eaxi_emc_addr_gen
+R1
+R6
+R7
+R3
+R9
+R5
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+L586 1
+VL?J@UQ[_4n6BK_TGb?3]k1
+!s100 _e4kLfn4D]EFX9hW]kN;m3
+R14
+31
+Z21 !s110 1644241476
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Aimp
+R6
+R7
+R3
+R9
+R5
+R10
+R11
+DEx4 work 16 axi_emc_addr_gen 0 22 L?J@UQ[_4n6BK_TGb?3]k1
+!i122 0
+l654
+L614 463
+VfJe@Hb5ARmnob;heb`hTU2
+!s100 @PZF6PQHlb42jOCTFcPz02
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Eaxi_emc_address_decode
+R1
+R2
+R6
+R7
+R3
+R9
+R5
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+L1197 1
+VB46USC8mPWLJ=znHTNHXS1
+!s100 ZQ?=X2CSd18=QJZ@@bVeO2
+R14
+31
+R15
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Aimp
+DEx15 axi_emc_v3_0_21 9 pselect_f 0 22 iiX:BNURBCd3lDCJGQnEe0
+R2
+R6
+R7
+R3
+R9
+R5
+R10
+R11
+DEx4 work 22 axi_emc_address_decode 0 22 B46USC8mPWLJ=znHTNHXS1
+!i122 0
+l1444
+L1250 326
+V_]CgRlgDED0M3;U:kAglH2
+!s100 VHn_Kc5iHkZecB_j1D4^l1
+R14
+31
+R15
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Eaxi_emc_native_interface
+R1
+R2
+R3
+R9
+R5
+R6
+R7
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+L1704 1
+VPGPGd]n>66Ck]MFP8KRRi3
+!s100 ZoNVWC4WejSTfPmR<AmG]3
+R14
+31
+R15
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Aimp
+DEx15 axi_emc_v3_0_21 9 counter_f 0 22 a;X>Ebe:]BGW3DNBP`TUd3
+DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 QP:`ST7Am`B05z6NR4P3M0
+DEx19 lib_srl_fifo_v1_0_2 14 srl_fifo_rbu_f 0 22 oCCSJKHb?h@nBXhikOFMG2
+DEx15 axi_emc_v3_0_21 22 axi_emc_address_decode 0 22 B46USC8mPWLJ=znHTNHXS1
+DEx15 axi_emc_v3_0_21 16 axi_emc_addr_gen 0 22 L?J@UQ[_4n6BK_TGb?3]k1
+R2
+R3
+R9
+R5
+R6
+R7
+R10
+R11
+DEx4 work 24 axi_emc_native_interface 0 22 PGPGd]n>66Ck]MFP8KRRi3
+!i122 0
+l2054
+L1827 1270
+VZHH;d3FJ0SCdBYdS9hANS3
+!s100 ]oA765Iz4N`0kha=ln=ec3
+R14
+31
+R15
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Ecounter_f
+R1
+R3
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+L219 1
+Va;X>Ebe:]BGW3DNBP`TUd3
+!s100 oTX_mPKYha:S]Y1I2_]2;1
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Aimp
+R3
+R10
+R11
+DEx4 work 9 counter_f 0 22 a;X>Ebe:]BGW3DNBP`TUd3
+!i122 0
+l246
+L241 47
+VC?Ljgbg05azn>=?zjk1E21
+!s100 [59XPJia4Mc1hT?A?a[;I2
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Pemc_pkg
+R5
+R9
+R10
+R11
+!i122 0
+R1
+R0
+R12
+R13
+l0
+L9 1
+V[X2ej=zU>::O[F3]h_fBl2
+!s100 WY5QQ_f=O7kbX`_0:@K6]1
+R14
+31
+b1
+R21
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Bbody
+DPx4 work 7 emc_pkg 0 22 [X2ej=zU>::O[F3]h_fBl2
+R5
+R9
+R10
+R11
+!i122 0
+l0
+L23 1
+VcA4?BM>R9^=o;9[335n3M1
+!s100 _7_`Q2KjSfQBM3<`j56X70
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Epselect_f
+R1
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+L413 1
+ViiX:BNURBCd3lDCJGQnEe0
+!s100 jXHEVa2BF[X>D7=oegFKP2
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Aimp
+R10
+R11
+DEx4 work 9 pselect_f 0 22 iiX:BNURBCd3lDCJGQnEe0
+!i122 0
+l441
+L433 35
+V1i[XGPd7OBL=mOd95`j=>0
+!s100 OeA2SOj9g76Pb7HeTUNj11
+R14
+31
+R21
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Estartup_wrapper
+R1
+R3
+R4
+R10
+R11
+!i122 0
+R0
+R12
+R13
+l0
+L3104 1
+V;6OMHJ_7Ma>n;U2V?5<7S2
+!s100 5ROWS_8HnnmN?CmzZ4Si:0
+R14
+31
+R15
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19
+Astartup_arch
+R3
+R4
+R10
+R11
+DEx4 work 15 startup_wrapper 0 22 ;6OMHJ_7Ma>n;U2V?5<7S2
+!i122 0
+l3140
+L3135 65
+VzjWY3El5?:5=]je@0Z<2R1
+!s100 Ab1B@K[8@74>3f@a[TSB00
+R14
+31
+R15
+!i10b 1
+R16
+R17
+R20
+!i113 0
+R18
+R19

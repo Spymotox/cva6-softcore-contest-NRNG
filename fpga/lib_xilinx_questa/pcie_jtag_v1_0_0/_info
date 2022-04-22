@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vfm26Bm1B+aGtW9VWTq5gp8vjJivOzHxULpa2TjavXXs=
+Z1 !s110 1644241333
+!i10b 0
+!s100 L9V06SXDk9]hhonNN1P@o2
+ID8Ve@<]@6;oZTf@f4nEK41
+!i119 1
+!i8a 415374176
+R0
+Z2 w1644241333
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/pcie_jtag_v1_0/hdl/pcie_jtag_v1_0_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/pcie_jtag_v1_0/hdl/pcie_jtag_v1_0_vl_rfs.v
+!i122 0
+Z5 L0 82 1
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241333.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/pcie_jtag_v1_0/hdl/pcie_jtag_v1_0_vl_rfs.v|
+Z9 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|pcie_jtag_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/pcie_jtag_v1_0_0/.cxl.verilog.pcie_jtag_v1_0_0.pcie_jtag_v1_0_0.lin64.cmf|
+!i113 0
+Z10 o-64 -work pcie_jtag_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work pcie_jtag_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+n679ed9
+v2ln6wws68oxTob4r+78Y2y88SmaeXru5zMtn4AL92To=
+R1
+!i10b 0
+!s100 dQ5;6d[=16e4DK:7H?iAb1
+IcZ2_lalzm=;4LVS8ZWnbD3
+!i119 1
+!i8a 234895872
+R0
+R2
+R3
+R4
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/pcie_jtag_v1_0/hdl/pcie_jtag_v1_0_vl_rfs.v|
+R9
+!i113 0
+R10
+R11
+R12
+n67a7977
+vo+sr92FoynaWlzfIrwKfW/Xu+Ut9CTZDHCNYpSZY+/HdMFNWbLj8l17m0nvZwoXg
+R1
+!i10b 0
+!s100 VeM1oGBML@N5hJEE:7e290
+Id4c4hUEHbI?2Jh=QoW7j>2
+!i119 1
+!i8a 1862394208
+R0
+R2
+R3
+R4
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+n4de3c02
+vAo1oWSQsI5lKo6bZeBpUzBz4cfo1Z9FBxPIkFL5oMdA=
+R1
+!i10b 0
+!s100 8D;cgd:<OK]oWU`gPE=@e1
+I1=PkTz3UiC_kQL[H]J8Dd2
+!i119 1
+!i8a 1835973104
+R0
+R2
+R3
+R4
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+n3dd8d07

@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxi_infrastructure_v1_1_0_axi2vector
+Z1 !s110 1644241175
+!i10b 1
+!s100 c?7K`B<gf?PfFbo@;MaC[3
+I_8>3]3Y@gK81NK?]IMKNW0
+R0
+Z2 w1590640450
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_infrastructure_v1_1/hdl/axi_infrastructure_v1_1_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_infrastructure_v1_1/hdl/axi_infrastructure_v1_1_vl_rfs.v
+Z5 F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axi_infrastructure_v1_1_0.vh
+!i122 0
+L0 60 307
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241175.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axi_infrastructure_v1_1_0.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_infrastructure_v1_1/hdl/axi_infrastructure_v1_1_vl_rfs.v|
+Z9 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axi_infrastructure_v1_1_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_infrastructure_v1_1_0/.cxl.verilog.axi_infrastructure_v1_1_0.axi_infrastructure_v1_1_0.lin64.cmf|
+!i113 0
+Z10 o-64 -work axi_infrastructure_v1_1_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axi_infrastructure_v1_1_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+vaxi_infrastructure_v1_1_0_axic_srl_fifo
+R1
+!i10b 1
+!s100 N>:31RQCZh5d`0OodVKec3
+I13fYFgIfl=>if8g>jb:OP3
+R0
+R2
+R3
+R4
+!i122 0
+L0 287 124
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axi_infrastructure_v1_1_0.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_infrastructure_v1_1/hdl/axi_infrastructure_v1_1_vl_rfs.v|
+R9
+!i113 0
+R10
+R11
+R12
+vaxi_infrastructure_v1_1_0_vector2axi
+R1
+!i10b 1
+!s100 akUghV2lZMEK5UibV`ej;0
+I=h2=n:Bi9<_LzI_9PNneB3
+R0
+R2
+R3
+R4
+R5
+!i122 0
+L0 474 331
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12

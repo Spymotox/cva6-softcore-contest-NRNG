@@ -1,0 +1,241 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+E4LUWkvUawgyU8KgkeW/GKA==
+Z1 w1590640554
+Z2 DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z6 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/timer_sync_1588_v1_2/hdl/timer_sync_1588_v1_2_rfs.vhd
+Z7 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/timer_sync_1588_v1_2/hdl/timer_sync_1588_v1_2_rfs.vhd
+l0
+Z8 L82 1
+VO]TWg^S;n038F8i?2GDiI0
+!s100 1_;7hKMDTDJzzQ?OD6IbQ3
+Z9 OL;C;2021.3_2;73
+!i119 1
+!i8a 705259440
+31
+Z10 !s110 1644241310
+!i10b 1
+Z11 !s108 1644241309.000000
+Z12 !s90 -64|-93|-work|timer_sync_1588_v1_2_4|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/timer_sync_1588_v1_2_4/.cxl.vhdl.timer_sync_1588_v1_2_4.timer_sync_1588_v1_2_4.lin64.cmf|
+Z13 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/timer_sync_1588_v1_2/hdl/timer_sync_1588_v1_2_rfs.vhd|
+!i113 0
+Z14 o-64 -93 -work timer_sync_1588_v1_2_4
+Z15 tExplicit 1 CvgOpt 0
+n8f48465
+Awc9QkJpPDChEV5uZjeOO3A==
+R2
+R3
+R4
+R5
+DEx4 work 10 delay_line 0 22 O]TWg^S;n038F8i?2GDiI0
+!i122 0
+l82
+R8
+VIOlab29WLI_z:X@>zWok42
+!s100 Bk[^RV1zGZLG=kzUo8lR>1
+R9
+!i119 1
+!i8a 149706480
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+n8cae39c
+E5UaD/cxhcDCN9WAh8f6udw==
+R1
+R3
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+R8
+V;e5S_5k1NUhoFz1AgX_=G1
+!s100 j_35B<z[Ke3C;C4VQO0P@2
+R9
+!i119 1
+!i8a 2022188992
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+n730
+AFI83XeoP0FPK12fXcwStvg==
+R3
+R4
+R5
+DEx4 work 2 lp 0 22 ;e5S_5k1NUhoFz1AgX_=G1
+!i122 0
+l82
+R8
+Vn5J16RNWfRWC39?CkCk8V1
+!s100 V>Cg2gW8f79[@E01T[HMQ2
+R9
+!i119 1
+!i8a 519756272
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+n8cae39e
+E5omWKTT0lMOQQs5IMzdk9Q==
+R1
+R2
+R3
+R4
+R5
+!i122 0
+R0
+R6
+R7
+l0
+R8
+VFO9zTM^Oka16fdKa[DYc@1
+!s100 863:2SVS31N_n4e3n>zoU0
+R9
+!i119 1
+!i8a 1841370080
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+n2c22214
+AuZto7PvHcvxJGfZHukEeNQ==
+R2
+R3
+R4
+R5
+DEx4 work 12 phase_detect 0 22 FO9zTM^Oka16fdKa[DYc@1
+!i122 0
+l82
+R8
+VX3k;mhKgEE>F^WMag8PM40
+!s100 Bj[a=jz@[>;gOFgFRnMhJ3
+R9
+!i119 1
+!i8a 1122731712
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+n8cae39d
+vbr8NqRPCgGgsfus1qBPpQ3FAGrYp2upfWxTi0/eS3E8=
+Z16 !s110 1644241311
+!i10b 0
+!s100 _]QJ>HKSk3GVBkC9ZYQdn2
+ISP6o5[=maFLQVLQYXFKS10
+!i119 1
+!i8a 807566912
+R0
+Z17 w1644241311
+Z18 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/timer_sync_1588_v1_2/hdl/timer_sync_1588_v1_2_rfs.v
+Z19 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/timer_sync_1588_v1_2/hdl/timer_sync_1588_v1_2_rfs.v
+!i122 1
+Z20 L0 82 1
+Z21 VDg1SIo80bB@j0V0VzS_@n1
+Z22 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z23 !s108 1644241310.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/timer_sync_1588_v1_2/hdl/timer_sync_1588_v1_2_rfs.v|
+Z24 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|timer_sync_1588_v1_2_4|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/timer_sync_1588_v1_2_4/.cxl.verilog.timer_sync_1588_v1_2_4.timer_sync_1588_v1_2_4.lin64.cmf|
+!i113 0
+Z25 o-64 -work timer_sync_1588_v1_2_4 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z26 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work timer_sync_1588_v1_2_4 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z27 tCvgOpt 0
+n3348d94
+vZbUOFxXN+vcY6ysHPoxKfPl0lFpDQ0RUGko1gj4QknDZPdC7ti8GB7zaWLDzyJg6
+R16
+!i10b 0
+!s100 GAZ`@NieaHH=lGebKCb<n2
+I1aiF`EF^jV`ATRP4NMWQ>3
+!i119 1
+!i8a 1026219024
+R0
+R17
+R18
+R19
+!i122 1
+R20
+R21
+R22
+r1
+!s85 0
+31
+R23
+Z28 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/timer_sync_1588_v1_2/hdl/timer_sync_1588_v1_2_rfs.v|
+R24
+!i113 0
+R25
+R26
+R27
+n2eedd0b
+veHbIKwD+Z+rGmcT7coBckaQilAe/R0dt0Pmtbnbu7xU3jBMkPQWoDDBZYgjDkgjL
+R16
+!i10b 0
+!s100 35J8TmkJ3PURA0SOM?F^L2
+Im57LVF[8zI6_3Z=@h@SXC1
+!i119 1
+!i8a 352920352
+R0
+R17
+R18
+R19
+!i122 1
+R20
+R21
+R22
+r1
+!s85 0
+31
+R23
+R28
+R24
+!i113 0
+R25
+R26
+R27
+n3483fa5

@@ -1,0 +1,332 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Eaxi_timer
+Z1 w1590640536
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx20 axi_lite_ipif_v3_0_4 8 ipif_pkg 0 22 QY1GMlWOO]F<M]NPV0;PG3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z7 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_timer_v2_0/hdl/axi_timer_v2_0_vh_rfs.vhd
+Z8 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_timer_v2_0/hdl/axi_timer_v2_0_vh_rfs.vhd
+l0
+L2088 1
+V2@_`CFh0j;nM_eb;fdzNN3
+!s100 9f_hln@^31aHG=@HfePEQ3
+Z9 OL;C;2021.3_2;73
+31
+Z10 !s110 1644241723
+!i10b 1
+Z11 !s108 1644241722.000000
+Z12 !s90 -64|-93|-work|axi_timer_v2_0_23|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_timer_v2_0_23/.cxl.vhdl.axi_timer_v2_0_23.axi_timer_v2_0_23.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_timer_v2_0/hdl/axi_timer_v2_0_vh_rfs.vhd|
+!i113 0
+Z13 o-64 -93 -work axi_timer_v2_0_23
+Z14 tExplicit 1 CvgOpt 0
+Aimp
+Z15 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z16 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+DEx20 axi_lite_ipif_v3_0_4 13 axi_lite_ipif 0 22 C@:2Ph7;IGLbHe2l@iF9B0
+Z17 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z18 DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+Z19 DPx17 axi_timer_v2_0_23 8 tc_types 0 22 H5YU<9Umb1J6lKZeQ8Kgl0
+DEx17 axi_timer_v2_0_23 7 tc_core 0 22 ?hj6?;8Zf_eaL;OAQ:j3k2
+R2
+R3
+R4
+R5
+R6
+DEx4 work 9 axi_timer 0 22 2@_`CFh0j;nM_eb;fdzNN3
+!i122 0
+l2220
+L2143 169
+V=?JoKRg4fZlN:Z_@0>?Yg0
+!s100 KVi?he484eJa[[NdMe1_<2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+Z20 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_timer_v2_0/hdl/axi_timer_v2_0_vh_rfs.vhd|
+!i113 0
+R13
+R14
+Ecount_module
+R1
+R17
+R18
+R5
+R6
+!i122 0
+R0
+R7
+R8
+l0
+L1413 1
+VPWBWg5J9cfLGKZl<jbU5o0
+!s100 b=?gLc:QaLU[=M`:I5`9R0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Aimp
+DEx17 axi_timer_v2_0_23 9 counter_f 0 22 mBhZH?CEY646iT0TK^kX13
+R17
+R18
+R5
+R6
+DEx4 work 12 count_module 0 22 PWBWg5J9cfLGKZl<jbU5o0
+!i122 0
+l1453
+L1438 70
+VYUoDW1eMEJg]HGl3GmQBT3
+!s100 _8c[IR<n55a`?bl5dfn4J0
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Ecounter_f
+R1
+R17
+R5
+R6
+!i122 0
+R0
+R7
+R8
+l0
+L126 1
+VmBhZH?CEY646iT0TK^kX13
+!s100 JgnN`iX^LUCC8<zXUCVfV2
+R9
+31
+Z21 !s110 1644241722
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Aimp
+R17
+R5
+R6
+DEx4 work 9 counter_f 0 22 mBhZH?CEY646iT0TK^kX13
+!i122 0
+l153
+L148 47
+VJ9@cYIzhAYQI7jfn2M3m;3
+!s100 aV<4JB9NRAh?eSYSKdHh_2
+R9
+31
+R21
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Emux_onehot_f
+R1
+R5
+R6
+!i122 0
+R0
+R7
+R8
+l0
+L352 1
+VI0CJl3PjZgd7^QPhEI?VO2
+!s100 2DcKGm@l;JoMAQVI_5_an1
+R9
+31
+R21
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Aimp
+R5
+R6
+DEx4 work 12 mux_onehot_f 0 22 I0CJl3PjZgd7^QPhEI?VO2
+!i122 0
+l404
+L365 118
+V<b0@L1LjOGjC3?lADKom`3
+!s100 @^];fj692?TGYJ]^onlYE3
+R9
+31
+R21
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Etc_core
+R1
+R17
+R18
+R2
+R3
+R4
+R19
+R5
+R6
+!i122 0
+R0
+R7
+R8
+l0
+L1664 1
+V?hj6?;8Zf_eaL;OAQ:j3k2
+!s100 d1DHUZaOQ0_VF:nfR?:>X1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Aimp
+Z22 DPx14 lib_pkg_v1_0_2 7 lib_pkg 0 22 QP:`ST7Am`B05z6NR4P3M0
+DEx17 axi_timer_v2_0_23 13 timer_control 0 22 5zf5HzSNBeRi3SocfQUmo2
+DEx17 axi_timer_v2_0_23 12 count_module 0 22 PWBWg5J9cfLGKZl<jbU5o0
+DEx17 axi_timer_v2_0_23 12 mux_onehot_f 0 22 I0CJl3PjZgd7^QPhEI?VO2
+R17
+R18
+R2
+R3
+R4
+R19
+R5
+R6
+DEx4 work 7 tc_core 0 22 ?hj6?;8Zf_eaL;OAQ:j3k2
+!i122 0
+l1733
+L1704 220
+Vj2IQWlVg]z]AUZ8Jlaz0X0
+!s100 jmB]NGJ:ibP5^eS5lm;LA2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Ptc_types
+R5
+R6
+!i122 0
+R1
+R0
+R7
+R8
+l0
+L577 1
+VH5YU<9Umb1J6lKZeQ8Kgl0
+!s100 67KBQ_eLLF:I]BmecCfbD2
+R9
+31
+R21
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Etimer_control
+R1
+R19
+R17
+R18
+R22
+R2
+R3
+R4
+R5
+R6
+!i122 0
+R0
+R7
+R8
+l0
+L799 1
+V5zf5HzSNBeRi3SocfQUmo2
+!s100 9bGn^=6dH8l3SUNdBMC;m2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14
+Aimp
+R15
+R16
+DEx14 lib_cdc_v1_0_2 8 cdc_sync 0 22 IKUmIBRVig`LR@ZnI[GG92
+R19
+R17
+R18
+R22
+R2
+R3
+R4
+R5
+R6
+DEx4 work 13 timer_control 0 22 5zf5HzSNBeRi3SocfQUmo2
+!i122 0
+l912
+L835 455
+Vj`8W8DIAZlAEFA:MbhEeD1
+!s100 UCl5?;nF2nKb`^;Bgn]zS1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R20
+!i113 0
+R13
+R14

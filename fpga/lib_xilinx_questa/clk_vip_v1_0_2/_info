@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vclk_vip_v1_0_2_top
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1644241190
+!i10b 1
+!s100 G0JzS26OLA=1>`QV4L:O<2
+I`jhdE@=3ZEK[39SBjFE`;2
+S1
+R0
+w1590640538
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/clk_vip_v1_0/hdl/clk_vip_v1_0_vl_rfs.sv
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/clk_vip_v1_0/hdl/clk_vip_v1_0_vl_rfs.sv
+!i122 0
+L0 61 98
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2021.3_2;73
+r1
+!s85 0
+31
+!s108 1644241189.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/clk_vip_v1_0/hdl/clk_vip_v1_0_vl_rfs.sv|
+!s90 -64|-L|clk_vip_v1_0_2|-L|xilinx_vip|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-sv|-svinputport=relaxed|-work|clk_vip_v1_0_2|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/clk_vip_v1_0_2/.cxl.systemverilog.clk_vip_v1_0_2.clk_vip_v1_0_2.lin64.cmf|
+!i113 0
+o-64 -L clk_vip_v1_0_2 -L xilinx_vip -sv -svinputport=relaxed -work clk_vip_v1_0_2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -64 -L clk_vip_v1_0_2 -L xilinx_vip +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -sv -svinputport=relaxed -work clk_vip_v1_0_2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

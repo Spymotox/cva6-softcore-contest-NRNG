@@ -1,0 +1,207 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vBM_NOC_NPS5555
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 DXx4 work 27 noc_nps_v1_0_vl_rfs_sv_unit 0 22 K@7^Ij`VRAkU1NWNEG:DO2
+Z3 !s110 1644241198
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 Jgl3>[S=C`?NIcZig?ZTo2
+IB?[el51^oU>bhX83BmEd41
+Z5 !s105 noc_nps_v1_0_vl_rfs_sv_unit
+S1
+R0
+Z6 w1590640548
+Z7 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/noc_nps_v1_0/hdl/noc_nps_v1_0_vl_rfs.sv
+Z8 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/noc_nps_v1_0/hdl/noc_nps_v1_0_vl_rfs.sv
+!i122 0
+L0 2466 1016
+Z9 OL;L;2021.3_2;73
+31
+Z10 !s108 1644241198.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_ipa.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_ivca.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_class_new.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_macros.svh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_load_parameters.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_noc_define.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/noc_nps_v1_0/hdl/noc_nps_v1_0_vl_rfs.sv|
+Z11 !s90 -64|-L|noc_nps_v1_0_0|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-sv|-svinputport=relaxed|-work|noc_nps_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/noc_nps_v1_0_0/.cxl.systemverilog.noc_nps_v1_0_0.noc_nps_v1_0_0.lin64.cmf|
+!i113 0
+Z12 o-64 -L noc_nps_v1_0_0 -sv -svinputport=relaxed -work noc_nps_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 !s92 -64 -L noc_nps_v1_0_0 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -sv -svinputport=relaxed -work noc_nps_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 tCvgOpt 0
+n@b@m_@n@o@c_@n@p@s5555
+vBM_NOC_NPS7575
+R1
+R2
+R3
+R4
+r1
+!s85 0
+!i10b 1
+!s100 ;HHT[8IS6L`j^:ib_fGX?3
+I;cE8lJP@CBOQ1n;Ghmk0i3
+R5
+S1
+R0
+R6
+R7
+R8
+!i122 0
+L0 1441 1016
+R9
+31
+R10
+Z15 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_ipa.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_ivca.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_class_new.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_macros.svh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_load_parameters.sv|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_noc_define.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/noc_nps_v1_0/hdl/noc_nps_v1_0_vl_rfs.sv|
+R11
+!i113 0
+R12
+R13
+R14
+n@b@m_@n@o@c_@n@p@s7575
+Ydbg_noc_npp_nps_if
+R5
+R2
+R1
+R3
+!i10b 1
+!s100 7^E@IXV1n@Yz5z]TLZbcN3
+I2[QUf_o7En8ibk24OB7]81
+S1
+R0
+R6
+R7
+R8
+!i122 0
+L0 9 0
+R4
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+Ynoc_npp_if_nps
+R5
+R2
+R1
+R3
+!i10b 1
+!s100 ^cQj>c_n<`?CTK7a5gFeB1
+IAG:ME;ec7f1XI8YOTIXA73
+S1
+R0
+R6
+R7
+R8
+!i122 0
+L0 189 0
+R4
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+Xnoc_nps_v1_0_vl_rfs_sv_unit
+R1
+R3
+VK@7^Ij`VRAkU1NWNEG:DO2
+r1
+!s85 0
+!i10b 1
+!s100 C7c[S]3ZCG<Nj[L=7E0ii1
+IK@7^Ij`VRAkU1NWNEG:DO2
+!i103 1
+S1
+R0
+R6
+R7
+R8
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_noc_define.vh
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_load_parameters.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_macros.svh
+!i122 0
+L0 256 0
+R9
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+vnps_bfm_new
+R1
+R2
+R3
+R4
+r1
+!s85 0
+!i10b 1
+!s100 THQWDI^di1`8_>3<Nh@Z<3
+I4ik<dVmI>oU8U<iNm:H;]1
+R5
+S1
+R0
+R6
+R7
+R8
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_class_new.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_ivca.sv
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/nps_ipa.sv
+!i122 0
+L0 822 1214
+R9
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+Ynps_internal_if
+R5
+R2
+R1
+R3
+!i10b 1
+!s100 _4DZ6jj1zmH>z8_D<[;@n2
+I3@7bk489b9SQjNTT7]?`E0
+S1
+R0
+R6
+R7
+R8
+!i122 0
+L0 237 0
+R4
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14

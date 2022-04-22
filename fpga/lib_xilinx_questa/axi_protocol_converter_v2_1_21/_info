@@ -1,0 +1,448 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxi_protocol_converter_v2_1_21_a_axi3_conv
+Z1 !s110 1644241610
+!i10b 1
+!s100 Ymn]eQhXUn`BY`3gMaGAM1
+I<jOKj[^?4e5?k:VBLN>N`1
+R0
+Z2 w1590640763
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_protocol_converter_v2_1/hdl/axi_protocol_converter_v2_1_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_protocol_converter_v2_1/hdl/axi_protocol_converter_v2_1_vl_rfs.v
+!i122 0
+L0 62 822
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z7 !s108 1644241610.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_protocol_converter_v2_1/hdl/axi_protocol_converter_v2_1_vl_rfs.v|
+Z8 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axi_protocol_converter_v2_1_21|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_protocol_converter_v2_1_21/.cxl.verilog.axi_protocol_converter_v2_1_21.axi_protocol_converter_v2_1_21.lin64.cmf|
+!i113 0
+Z9 o-64 -work axi_protocol_converter_v2_1_21 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axi_protocol_converter_v2_1_21 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vaxi_protocol_converter_v2_1_21_axi3_conv
+R1
+!i10b 1
+!s100 PW`S:eh>A84G0Ef56Uc;[2
+I7jR27zQ=S6zW@]>_8C3720
+R0
+R2
+R3
+R4
+!i122 0
+L0 954 538
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_protocol_converter_v2_1/hdl/axi_protocol_converter_v2_1_vl_rfs.v|
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_axi_protocol_converter
+R1
+!i10b 1
+!s100 2<nKR:HRVanlT4BbB9Uba0
+IbOOBkeDX9MICH8hik[OgN1
+R0
+R2
+R3
+R4
+!i122 0
+L0 4808 777
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_axilite_conv
+R1
+!i10b 1
+!s100 DOGUOM@I:7FlSjA[AYMi]3
+IdR=mNPz22b`9a<lbkzCNY2
+R0
+R2
+R3
+R4
+!i122 0
+L0 1553 174
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s
+R1
+!i10b 1
+!s100 ;:zDoTnbWOod7kJei6NlI3
+IF1MIYO@IjUi>XG=@H:mi10
+R0
+R2
+R3
+R4
+!i122 0
+L0 4226 517
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_ar_channel
+R1
+!i10b 1
+!s100 44G2F9cl0W`N844>Gz:bC1
+IC1C=LAl3U2n?z:nY2bg2z1
+R0
+R2
+R3
+R4
+!i122 0
+L0 4082 102
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_aw_channel
+R1
+!i10b 1
+!s100 CS`g:Y`moW8HP>_CDVmR12
+IUG?`WVU?z5amMNG_Z?3?k3
+R0
+R2
+R3
+R4
+!i122 0
+L0 3971 103
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_b_channel
+R1
+!i10b 1
+!s100 >NPYe]AVUkX4bjalJAd<32
+IGf]@;>OdE0F<[zW>Ack0m2
+R0
+R2
+R3
+R4
+!i122 0
+L0 3606 181
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_cmd_translator
+R1
+!i10b 1
+!s100 jM9FgDnP9PmKR@bKCMW9a2
+Ii;6^M;c@[^UIQcB5TZY6L0
+R0
+R2
+R3
+R4
+!i122 0
+L0 3464 130
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_incr_cmd
+R1
+!i10b 1
+!s100 Q7;1lDJa>hk<kW4>bRd;d0
+Ia<<klWd]6LHo^>AITUfAf1
+R0
+R2
+R3
+R4
+!i122 0
+L0 3092 120
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_r_channel
+R1
+!i10b 1
+!s100 iM>784T70_@R<KjDCRZ]Q0
+IMiYlgKzS2oWTYhegMFYN52
+R0
+R2
+R3
+R4
+!i122 0
+L0 3811 153
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_rd_cmd_fsm
+R1
+!i10b 1
+!s100 9MzY2ZA8fV38XTX=C[TLV2
+IUeYzZF]j^VMa0AH2L[:L21
+R0
+R2
+R3
+R4
+!i122 0
+L0 3334 109
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_simple_fifo
+R1
+!i10b 1
+!s100 z<]4iie5A^N>5JQCAJ>oM3
+I1z]>BRjY@jW402TQ5^QKo2
+R0
+R2
+R3
+R4
+!i122 0
+L0 2816 72
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_wr_cmd_fsm
+R1
+!i10b 1
+!s100 Ec@6l0F2QRD8>eePIDeog1
+I0k7QJ>U]=5@2Okm<lNX:B2
+R0
+R2
+R3
+R4
+!i122 0
+L0 3224 96
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b2s_wrap_cmd
+R1
+!i10b 1
+!s100 DzMRKZnIRa8X=KgN``W1b2
+I8XF6a8UY5B6SCe@o:ZHOC2
+R0
+R2
+R3
+R4
+!i122 0
+L0 2902 177
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_b_downsizer
+R1
+!i10b 1
+!s100 3_M@G^B2LR5TZb1c[kj021
+I:JCGe6h1A`^YZ^cBAafOD0
+R0
+R2
+R3
+R4
+!i122 0
+L0 2276 241
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_decerr_slave
+R1
+!i10b 1
+!s100 =;B:nXc6d[jAQLFF8OMjb1
+IULPcFN9HNb9kdj;CSgID51
+R0
+R2
+R3
+R4
+!i122 0
+L0 2582 222
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_r_axi3_conv
+R1
+!i10b 1
+!s100 FeBkY@QjHAf79Ti_HlUBO1
+I=2;E2:HmZ?RZ_TEiLI;891
+R0
+R2
+R3
+R4
+!i122 0
+L0 1789 153
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_protocol_converter_v2_1_21_w_axi3_conv
+R1
+!i10b 1
+!s100 Wk6VfBcoY35M@jQV<lQzM0
+I1N2A__>>T3Ui;JN@@KHeE0
+R0
+R2
+R3
+R4
+!i122 0
+L0 2004 206
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

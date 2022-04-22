@@ -1,0 +1,113 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Easync_fifo_fg
+Z1 w1590640637
+Z2 DPx3 xpm 11 vcomponents 0 22 T[0[dMZKaF]em8R49B[GH2
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx8 synopsys 10 attributes 0 22 iThS5<O8gHDP?YiMiccE>3
+Z6 DPx4 ieee 14 std_logic_misc 0 22 j4Ca:YPSgnCRYmKlN0[Uj0
+Z7 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z10 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_fifo_v1_0/hdl/lib_fifo_v1_0_rfs.vhd
+Z11 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_fifo_v1_0/hdl/lib_fifo_v1_0_rfs.vhd
+l0
+L203 1
+VIo0Ma[`3eMA9<4H`[YlCP0
+!s100 o1[N41zL<8X@`X>OELlTM2
+Z12 OL;C;2021.3_2;73
+31
+!s110 1644241400
+!i10b 1
+Z13 !s108 1644241400.000000
+Z14 !s90 -64|-93|-work|lib_fifo_v1_0_14|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/lib_fifo_v1_0_14/.cxl.vhdl.lib_fifo_v1_0_14.lib_fifo_v1_0_14.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_fifo_v1_0/hdl/lib_fifo_v1_0_rfs.vhd|
+!i113 0
+Z15 o-64 -93 -work lib_fifo_v1_0_14
+Z16 tExplicit 1 CvgOpt 0
+Aimplementation
+Z17 DPx7 verilog 8 vl_types 0 22 bmGnzhS4n>6F^Dki9hX>O3
+Z18 DEx22 fifo_generator_v13_2_5 22 fifo_generator_v13_2_5 0 22 Dg1SIo80bB@j0V0VzS_@n1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+DEx4 work 13 async_fifo_fg 0 22 Io0Ma[`3eMA9<4H`[YlCP0
+!i122 0
+l599
+L255 1755
+VVn0H9LaD>dPg[KheF1@:i0
+!s100 07nA]h8]JhIJSm`cEcj;n0
+R12
+31
+Z19 !s110 1644241401
+!i10b 1
+R13
+R14
+Z20 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/lib_fifo_v1_0/hdl/lib_fifo_v1_0_rfs.vhd|
+!i113 0
+R15
+R16
+Esync_fifo_fg
+R1
+R2
+R7
+R8
+R9
+!i122 0
+R0
+R10
+R11
+l0
+L2203 1
+VDkez5A;]6jo^C^oKSaK@22
+!s100 >z:V[^c9LdeFH7@GA?MN]3
+R12
+31
+R19
+!i10b 1
+R13
+R14
+R20
+!i113 0
+R15
+R16
+Aimplementation
+R17
+R18
+R2
+R7
+R8
+R9
+DEx4 work 12 sync_fifo_fg 0 22 Dkez5A;]6jo^C^oKSaK@22
+!i122 0
+l2620
+L2250 1090
+VFNgJPze2:zR^R5DjZfY<70
+!s100 ghnBLhR9e9>m`4G9zo8Ii1
+R12
+31
+R19
+!i10b 1
+R13
+R14
+R20
+!i113 0
+R15
+R16

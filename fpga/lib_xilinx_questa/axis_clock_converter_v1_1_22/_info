@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxis_clock_converter_v1_1_22_axis_clock_converter
+Z1 !s110 1644241740
+!i10b 1
+!s100 D6_oSAi7;46:FI]2UEZBW1
+ICZ2hKV[U0MTlFhP^=<8Ii1
+R0
+Z2 w1590640763
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_clock_converter_v1_1/hdl/axis_clock_converter_v1_1_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_clock_converter_v1_1/hdl/axis_clock_converter_v1_1_vl_rfs.v
+Z5 F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_infrastructure_v1_1_0.vh
+!i122 0
+L0 925 607
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241739.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_clock_converter_v1_1/hdl/axis_clock_converter_v1_1_vl_rfs.v|
+Z9 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axis_clock_converter_v1_1_22|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axis_clock_converter_v1_1_22/.cxl.verilog.axis_clock_converter_v1_1_22.axis_clock_converter_v1_1_22.lin64.cmf|
+!i113 0
+Z10 o-64 -work axis_clock_converter_v1_1_22 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axis_clock_converter_v1_1_22 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+vaxis_clock_converter_v1_1_22_axisc_async_clock_converter
+R1
+!i10b 1
+!s100 XA`6ULz8L9];fG6B;h00m3
+Ie]:OKQ@^i8n18@Wmje<:A2
+R0
+R2
+R3
+R4
+R5
+!i122 0
+L0 341 704
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_infrastructure_v1_1_0.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_clock_converter_v1_1/hdl/axis_clock_converter_v1_1_vl_rfs.v|
+R9
+!i113 0
+R10
+R11
+R12
+vaxis_clock_converter_v1_1_22_axisc_sample_cycle_ratio
+R1
+!i10b 1
+!s100 OXMXIKa_m96CRO=^G5cAF0
+I43DU:daM?ocULaW=YzzJg3
+R0
+R2
+R3
+R4
+!i122 0
+L0 774 82
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+vaxis_clock_converter_v1_1_22_axisc_sync_clock_converter
+R1
+!i10b 1
+!s100 [LVm0n=1Ai`;ngFo3I?RT1
+IXR3L`FlLnWUdmY6U[gTBb2
+R0
+R2
+R3
+R4
+!i122 0
+L0 63 212
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12

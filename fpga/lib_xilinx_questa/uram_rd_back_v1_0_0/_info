@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vspfj+FQLfiD7RIMcMYqYQREt5HLWgQLZz+JvjiIwsPg=
+Z1 !s110 1644241336
+!i10b 0
+!s100 bO<]M[4::<_U93melEZT:0
+IQ<CUg;?UG=Cn2B1ScF9gn3
+!i119 1
+!i8a 721372336
+R0
+Z2 w1644241336
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/uram_rd_back_v1_0/hdl/uram_rd_back_v1_0_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/uram_rd_back_v1_0/hdl/uram_rd_back_v1_0_rfs.v
+!i122 0
+Z5 L0 82 1
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241336.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/uram_rd_back_v1_0/hdl/uram_rd_back_v1_0_rfs.v|
+Z9 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|uram_rd_back_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/uram_rd_back_v1_0_0/.cxl.verilog.uram_rd_back_v1_0_0.uram_rd_back_v1_0_0.lin64.cmf|
+!i113 0
+Z10 o-64 -work uram_rd_back_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work uram_rd_back_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+n477520
+vGjCQnBns5uSftO6Cd7BlZ8c8MOHoaPwzH/8LQLv8Nlo=
+R1
+!i10b 0
+!s100 `U97R<hI>M3R0cS_P2DAF3
+IW07Ok3zObSGlc16bO=Fd:3
+!i119 1
+!i8a 1407231168
+R0
+R2
+R3
+R4
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/uram_rd_back_v1_0/hdl/uram_rd_back_v1_0_rfs.v|
+R9
+!i113 0
+R10
+R11
+R12
+n5262e10
+ve3jXXj1t9pEHtb+wouUF0ey3k+9+l/DF/7o77ZFJ+vOfMY4eqeiXv1i1cX60ECDx
+R1
+!i10b 0
+!s100 M]j?NZl2nh?=3`3G9TX`32
+I:V=FgCE<M?0QVa_VQbQXj3
+!i119 1
+!i8a 501646064
+R0
+R2
+R3
+R4
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+na1975c8
+vGzCETOGRpH2s4kG53vdUhf5043GttSSuhvPzY3+c1xmBqS2hgSvkmAw/nsBbmeuZ
+R1
+!i10b 0
+!s100 0]HEKR^imV^oW03JBWQc>0
+I>Ld3:FGMcS<SMdinF^Qz32
+!i119 1
+!i8a 605402544
+R0
+R2
+R3
+R4
+!i122 0
+R5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+nf8444cd

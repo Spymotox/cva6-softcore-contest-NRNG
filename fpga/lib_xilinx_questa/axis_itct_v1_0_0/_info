@@ -1,0 +1,64 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+v867i6N3DluJHcl+dmnM4nQKGwHuXtKrYE1+S49QbnDM=
+!s110 1644241379
+!i10b 1
+!s100 KbD76GG5TIOV2lnl?mdcS0
+I>e?D?8cD7^ScTI8[R@PeK1
+!i8a 1458243552
+R0
+w1590640696
+Z1 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_itct_v1_0/hdl/axis_itct_v1_0_rfs.v
+Z2 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_itct_v1_0/hdl/axis_itct_v1_0_rfs.v
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_itct_v1_0_0_axis_itct_ports.vh
+F/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_itct_v1_0_0_mu_inst.vh
+!i122 0
+L0 82 35068
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z5 !s108 1644241370.000000
+!s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_itct_v1_0_0_mu_inst.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_itct_v1_0_0_axis_itct_ports.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_itct_v1_0/hdl/axis_itct_v1_0_rfs.v|
+Z6 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axis_itct_v1_0_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axis_itct_v1_0_0/.cxl.verilog.axis_itct_v1_0_0.axis_itct_v1_0_0.lin64.cmf|
+!i113 0
+Z7 o-64 -work axis_itct_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axis_itct_v1_0_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+n11fa354
+vEfjRU/1Obn+SthjGiiQUq9OW5kzW6/lhIiMTvpLUZ70=
+!s110 1644241378
+!i10b 0
+!s100 zCJ@DEJ?m]jch^A3i;l>j3
+I2]3lgj5V<?M=_SWnXJH6Q0
+!i119 1
+!i8a 1200479264
+R0
+w1644241378
+R1
+R2
+!i122 0
+L0 82 1
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z10 !s107 /homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_itct_v1_0_0_mu_inst.vh|/homes/q18ky/risc_v/fpga/.cxl.ip/incl/axis_itct_v1_0_0_axis_itct_ports.vh|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axis_itct_v1_0/hdl/axis_itct_v1_0_rfs.v|
+R6
+!i113 0
+R7
+R8
+R9
+n5b58114

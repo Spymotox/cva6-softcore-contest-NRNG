@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaudio_clock_recovery_v1_0
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1644241356
+!i10b 1
+!s100 zi^RL:@I>026Y]BHS?^;?1
+I7Ed0@z<l]]Wd[[?=kiXl71
+S1
+R0
+Z3 w1590640632
+Z4 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/audio_clock_recovery_unit_v1_0/hdl/audio_clock_recovery_unit_v1_0_rfs.sv
+Z5 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/audio_clock_recovery_unit_v1_0/hdl/audio_clock_recovery_unit_v1_0_rfs.sv
+!i122 0
+L0 1215 111
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241356.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/audio_clock_recovery_unit_v1_0/hdl/audio_clock_recovery_unit_v1_0_rfs.sv|
+Z9 !s90 -64|-L|audio_clock_recovery_v1_0|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-sv|-svinputport=relaxed|-work|audio_clock_recovery_v1_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/audio_clock_recovery_v1_0/.cxl.systemverilog.audio_clock_recovery_v1_0.audio_clock_recovery_v1_0.lin64.cmf|
+!i113 0
+Z10 o-64 -L audio_clock_recovery_v1_0 -sv -svinputport=relaxed -work audio_clock_recovery_v1_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 -L audio_clock_recovery_v1_0 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -sv -svinputport=relaxed -work audio_clock_recovery_v1_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+vaudio_clock_recovery_v1_0_axi
+R1
+R2
+!i10b 1
+!s100 ZUUDFF74]PPl1WWnDbKY43
+I=>f<XO]4<?nVVQO=FM[b:2
+S1
+R0
+R3
+R4
+R5
+!i122 0
+L0 4 508
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/audio_clock_recovery_unit_v1_0/hdl/audio_clock_recovery_unit_v1_0_rfs.sv|
+R9
+!i113 0
+R10
+R11
+R12
+vaudio_clock_recovery_v1_0_sys
+R1
+R2
+!i10b 1
+!s100 z9Gz[WgC:Vd]2A@^kWNW<1
+IcM?GED;R3GGXA@N1[gMGf1
+S1
+R0
+R3
+R4
+R5
+!i122 0
+L0 517 693
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12

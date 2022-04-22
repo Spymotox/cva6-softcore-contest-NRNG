@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11e vcom 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+Edivide_part
+Z1 w1590640636
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z4 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/fit_timer_v2_0/hdl/fit_timer_v2_0_vh_rfs.vhd
+Z5 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/fit_timer_v2_0/hdl/fit_timer_v2_0_vh_rfs.vhd
+l0
+L90 1
+Vzgj]@miIa8RYT2j;VjkGc3
+!s100 VX>PUQCGlfBFQO02RIC^a3
+Z6 OL;C;2021.3_2;73
+31
+!s110 1644241391
+!i10b 1
+Z7 !s108 1644241391.000000
+Z8 !s90 -64|-93|-work|fit_timer_v2_0_10|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/fit_timer_v2_0_10/.cxl.vhdl.fit_timer_v2_0_10.fit_timer_v2_0_10.lin64.cmf|
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/fit_timer_v2_0/hdl/fit_timer_v2_0_vh_rfs.vhd|
+!i113 0
+Z9 o-64 -93 -work fit_timer_v2_0_10
+Z10 tExplicit 1 CvgOpt 0
+Avhdl_rtl
+DEx4 work 11 divide_part 0 22 zgj]@miIa8RYT2j;VjkGc3
+Z11 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+Z12 DPx6 unisim 11 vcomponents 0 22 W9NClXP>lIgM6QjB=VoFR0
+!i122 0
+l133
+L113 192
+Vb61@I^8BkdRJClX8[NUVK3
+!s100 n:9iia?0V[2oinQ_0eSL:0
+R6
+31
+Z13 !s110 1644241392
+!i10b 1
+R7
+R8
+Z14 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/fit_timer_v2_0/hdl/fit_timer_v2_0_vh_rfs.vhd|
+!i113 0
+R9
+R10
+Efit_timer
+R1
+R11
+R2
+R3
+!i122 0
+R0
+R4
+R5
+l0
+L399 1
+VidE8V9bleJ`cKWQFIHA7f1
+!s100 CFfK]]H>Q@z:zQ4ejm4;W2
+R6
+31
+R13
+!i10b 1
+R7
+R8
+R14
+!i113 0
+R9
+R10
+Avhdl_rtl
+DEx4 work 9 fit_timer 0 22 idE8V9bleJ`cKWQFIHA7f1
+DEx17 fit_timer_v2_0_10 11 divide_part 0 22 zgj]@miIa8RYT2j;VjkGc3
+R11
+R2
+R3
+R12
+!i122 0
+l688
+L422 378
+V4_J]F?76I8`:7j3Zoe5@50
+!s100 EF;n^YPAne]FA2Jb@]9K<2
+R6
+31
+R13
+!i10b 1
+R7
+R8
+R14
+!i113 0
+R9
+R10

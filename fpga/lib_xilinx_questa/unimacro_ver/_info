@@ -1,0 +1,287 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vADDMACC_MACRO
+Z1 !s110 1644240943
+!i10b 1
+!s100 DZzc8[[hG][XPTT_?KXTQ2
+IYOVEZfbaBGAF4H_gaJQ^J2
+R0
+Z2 w1590624374
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/ADDMACC_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/ADDMACC_MACRO.v
+!i122 0
+L0 23 260
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z5 !s108 1644240943.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/FIFO_SYNC_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_SDP_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/ADDSUB_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/COUNTER_TC_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/ADDMACC_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/MACC_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/EQ_COMPARE_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/MULT_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/COUNTER_LOAD_MACRO.v|
+Z6 !s90 -source|-64|-work|unimacro_ver|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/unimacro_ver/.cxl.verilog.unimacro.unimacro_ver.lin64.cmf|
+!i113 0
+Z7 o-source -64 -work unimacro_ver -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+n@a@d@d@m@a@c@c_@m@a@c@r@o
+vADDSUB_MACRO
+R1
+!i10b 1
+!s100 RXk0U>V26TH=Ged^W?del2
+IjSRh6Y;PzMg3e8L]<;IiW0
+R0
+R2
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/ADDSUB_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/ADDSUB_MACRO.v
+!i122 0
+L0 24 278
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/FIFO_SYNC_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_SDP_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/ADDSUB_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/COUNTER_TC_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/ADDMACC_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/MACC_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/EQ_COMPARE_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/MULT_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v|/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/COUNTER_LOAD_MACRO.v|
+R6
+!i113 0
+R7
+R8
+n@a@d@d@s@u@b_@m@a@c@r@o
+vBRAM_SDP_MACRO
+R1
+!i10b 1
+!s100 k7FhfNfE2zZbhJKed8;d63
+ID`P@hZRY1]VJhlc5T]mbO0
+R0
+R2
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_SDP_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_SDP_MACRO.v
+!i122 0
+L0 34 2732
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@b@r@a@m_@s@d@p_@m@a@c@r@o
+vBRAM_SINGLE_MACRO
+R1
+!i10b 1
+!s100 8HUThXiSi_EZmK>M1<kDh3
+Il5H0ziQ8124nV>Ig>Xa`Y1
+R0
+Z10 w1590624368
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v
+!i122 0
+L0 30 2369
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@b@r@a@m_@s@i@n@g@l@e_@m@a@c@r@o
+vBRAM_TDP_MACRO
+R1
+!i10b 1
+!s100 7`H`h7ecG[UgiSk<JD9mG1
+I8gNn8en[C]Mnz?6U2ZjBg2
+R0
+R10
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/BRAM_TDP_MACRO.v
+!i122 0
+L0 30 1919
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@b@r@a@m_@t@d@p_@m@a@c@r@o
+vCOUNTER_LOAD_MACRO
+R1
+!i10b 1
+!s100 [ULoen;3TLj0^`f6`3oZ>0
+IBVf7gQ:2KVC8H^[W?zLVc2
+R0
+R10
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/COUNTER_LOAD_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/COUNTER_LOAD_MACRO.v
+!i122 0
+L0 23 214
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@c@o@u@n@t@e@r_@l@o@a@d_@m@a@c@r@o
+vCOUNTER_TC_MACRO
+R1
+!i10b 1
+!s100 fPfA8F8cLZa5?a7]LHBi;3
+IIdWW4h<L:>Xl<E@TNTVcR3
+R0
+R10
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/COUNTER_TC_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/COUNTER_TC_MACRO.v
+!i122 0
+L0 24 186
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@c@o@u@n@t@e@r_@t@c_@m@a@c@r@o
+vEQ_COMPARE_MACRO
+R1
+!i10b 1
+!s100 j==45FKH9?@ZBeEDmeJV81
+In>^amQ3GROOhdWA2AeGE;2
+R0
+R10
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/EQ_COMPARE_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/EQ_COMPARE_MACRO.v
+!i122 0
+L0 23 236
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@e@q_@c@o@m@p@a@r@e_@m@a@c@r@o
+vFIFO_DUALCLOCK_MACRO
+R1
+!i10b 1
+!s100 KQzTM;g6X]<Ik:eb;VbUJ0
+IWiN3_=T;VSmV8X?WX:i?12
+R0
+R10
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/FIFO_DUALCLOCK_MACRO.v
+!i122 0
+L0 25 440
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@f@i@f@o_@d@u@a@l@c@l@o@c@k_@m@a@c@r@o
+vFIFO_SYNC_MACRO
+R1
+!i10b 1
+!s100 P4JQ_d=>QC[KLiF@3fIXV2
+IL<7`XBedh`;1UAJ=DK2>N2
+R0
+R10
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/FIFO_SYNC_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/FIFO_SYNC_MACRO.v
+!i122 0
+L0 25 441
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@f@i@f@o_@s@y@n@c_@m@a@c@r@o
+vMACC_MACRO
+R1
+!i10b 1
+!s100 >m[4TW^g@Nak6DnEmZ`071
+IZ7@kkMcPh8LdN:a0=C63H1
+R0
+R10
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/MACC_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/MACC_MACRO.v
+!i122 0
+L0 23 391
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@m@a@c@c_@m@a@c@r@o
+vMULT_MACRO
+R1
+!i10b 1
+!s100 JI^on3`8kbba;ZfOh`<Nb3
+IK6GBDCRF^R335WE`ZcI3=2
+R0
+R10
+8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/MULT_MACRO.v
+F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/verilog/src/unimacro/MULT_MACRO.v
+!i122 0
+L0 24 392
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 0
+R7
+R8
+n@m@u@l@t_@m@a@c@r@o

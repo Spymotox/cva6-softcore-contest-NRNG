@@ -1,0 +1,162 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vAPB_to_VIO2
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1644241305
+!i10b 1
+!s100 aM]^YWjkV6j@PadWVhF1g3
+IN3mT1?;3CPCoSfW6^9a702
+S1
+R0
+Z3 w1590640553
+Z4 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/sim_trig_v1_0/hdl/sim_trig_v1_0_vl_rfs.sv
+Z5 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/sim_trig_v1_0/hdl/sim_trig_v1_0_vl_rfs.sv
+!i122 0
+L0 652 80
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z8 !s108 1644241305.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/sim_trig_v1_0/hdl/sim_trig_v1_0_vl_rfs.sv|
+Z9 !s90 -64|-L|sim_trig_top_v1_0|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-sv|-svinputport=relaxed|-work|sim_trig_top_v1_0|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/sim_trig_top_v1_0/.cxl.systemverilog.sim_trig_top_v1_0.sim_trig_top_v1_0.lin64.cmf|
+!i113 0
+Z10 o-64 -L sim_trig_top_v1_0 -sv -svinputport=relaxed -work sim_trig_top_v1_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -64 -L sim_trig_top_v1_0 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -sv -svinputport=relaxed -work sim_trig_top_v1_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+n@a@p@b_to_@v@i@o2
+vbridge_logic
+R1
+R2
+!i10b 1
+!s100 ZZD>d97]2nX9Xib<hAfDn1
+IDKka;nzkW^^Fb2jaX=5Q71
+S1
+R0
+R3
+R4
+R5
+!i122 0
+L0 1056 140
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z13 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/sim_trig_v1_0/hdl/sim_trig_v1_0_vl_rfs.sv|
+R9
+!i113 0
+R10
+R11
+R12
+vsim_trig_pulse_generator
+R1
+R2
+!i10b 1
+!s100 Mi`BZbET5VQ1<mejejKJ?1
+I?[5PFg4h5P@3T[ic;jznJ1
+S1
+R0
+R3
+R4
+R5
+!i122 0
+L0 958 74
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+vsim_trig_pulse_stretcher
+R1
+R2
+!i10b 1
+!s100 ?aa>Tm`H9nb^N5iIkUM9z3
+IJfWZ1F`:N@`N_Dd8_Bd>_2
+S1
+R0
+R3
+R4
+R5
+!i122 0
+L0 808 73
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+vsim_trig_synchronizer
+R1
+R2
+!i10b 1
+!s100 U>R3Fg_dV<JZHXP<m5k751
+I18l7n7NcbU_zmQE[5dWKQ1
+S1
+R0
+R3
+R4
+R5
+!i122 0
+L0 1269 28
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12
+vsim_trig_top_v1_0
+R1
+R2
+!i10b 1
+!s100 Q`:TQ^UZ<LGJfZH>6`Z;k3
+I7;EK>ajzoXJ3eb>ARlBHb1
+S1
+R0
+R3
+R4
+R5
+!i122 0
+L0 3 625
+R6
+R7
+r1
+!s85 0
+31
+R8
+R13
+R9
+!i113 0
+R10
+R11
+R12

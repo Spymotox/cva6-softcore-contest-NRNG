@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxi_data_fifo_v2_1_20_axi_data_fifo
+Z1 !s110 1644241524
+!i10b 1
+!s100 ?=R:hjL0LJkIi6:JFAY2C3
+IG`6@FM@]T>?bA4Tg1oFn:2
+R0
+Z2 w1590640779
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_data_fifo_v2_1/hdl/axi_data_fifo_v2_1_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_data_fifo_v2_1/hdl/axi_data_fifo_v2_1_vl_rfs.v
+!i122 0
+L0 1283 671
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z7 !s108 1644241523.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_data_fifo_v2_1/hdl/axi_data_fifo_v2_1_vl_rfs.v|
+Z8 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axi_data_fifo_v2_1_20|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_data_fifo_v2_1_20/.cxl.verilog.axi_data_fifo_v2_1_20.axi_data_fifo_v2_1_20.lin64.cmf|
+!i113 0
+Z9 o-64 -work axi_data_fifo_v2_1_20 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axi_data_fifo_v2_1_20 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vaxi_data_fifo_v2_1_20_axic_fifo
+R1
+!i10b 1
+!s100 5BlbFMd<mN:Y]c:Q8OoMI3
+I[joQ8]JF91mHzURIg2PVk3
+R0
+R2
+R3
+R4
+!i122 0
+L0 64 43
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_data_fifo_v2_1/hdl/axi_data_fifo_v2_1_vl_rfs.v|
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_data_fifo_v2_1_20_axic_reg_srl_fifo
+R1
+!i10b 1
+!s100 A0Az2lhQj3kmLRBTKFBI00
+I30NXfS6o0:ZLm>oZT]52e0
+R0
+R2
+R3
+R4
+!i122 0
+L0 889 185
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_data_fifo_v2_1_20_axic_srl_fifo
+R1
+!i10b 1
+!s100 LC;Wd?1YG]=EdE?b9@Z=21
+Ifdk]``g<cAnA;eaRChgEE3
+R0
+R2
+R3
+R4
+!i122 0
+L0 698 127
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_data_fifo_v2_1_20_fifo_gen
+R1
+!i10b 1
+!s100 5oGC7gR7d0`:z=EWa9O6b0
+IX<BX`[76NDdFAIlVO86g]1
+R0
+R2
+R3
+R4
+!i122 0
+L0 168 467
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_data_fifo_v2_1_20_ndeep_srl
+R1
+!i10b 1
+!s100 8j:DkiHENhn7f291mQ9nZ0
+Il4C=W_BjcX^0XhYh0VBHJ1
+R0
+R2
+R3
+R4
+!i122 0
+L0 1135 80
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

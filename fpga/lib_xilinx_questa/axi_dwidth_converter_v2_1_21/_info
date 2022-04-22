@@ -1,0 +1,333 @@
+m255
+K4
+z2
+!s11f vlog 2021.3_2 2021.09, Sep 10 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/homes/q18ky/risc_v/fpga
+vaxi_dwidth_converter_v2_1_21_a_downsizer
+Z1 !s110 1644241714
+!i10b 1
+!s100 oN7UX3Vd@]:KId5l`8kNP2
+IAOb?Xi_9l[WBh[5j[i1oS0
+R0
+Z2 w1590640762
+Z3 8/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_dwidth_converter_v2_1/hdl/axi_dwidth_converter_v2_1_vl_rfs.v
+Z4 F/usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_dwidth_converter_v2_1/hdl/axi_dwidth_converter_v2_1_vl_rfs.v
+!i122 0
+L0 64 1121
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.3_2;73
+r1
+!s85 0
+31
+Z7 !s108 1644241714.000000
+!s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_dwidth_converter_v2_1/hdl/axi_dwidth_converter_v2_1_vl_rfs.v|
+Z8 !s90 -64|+incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl|-work|axi_dwidth_converter_v2_1_21|-f|/homes/q18ky/risc_v/fpga/lib_xilinx_questa/axi_dwidth_converter_v2_1_21/.cxl.verilog.axi_dwidth_converter_v2_1_21.axi_dwidth_converter_v2_1_21.lin64.cmf|
+!i113 0
+Z9 o-64 -work axi_dwidth_converter_v2_1_21 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -64 +incdir+/homes/q18ky/risc_v/fpga/.cxl.ip/incl -work axi_dwidth_converter_v2_1_21 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vaxi_dwidth_converter_v2_1_21_a_upsizer
+R1
+!i10b 1
+!s100 dYBT;g;>4iRUf[Of9^O0U0
+IP1A7EZjXOdFSdLaael3ZK3
+R0
+R2
+R3
+R4
+!i122 0
+L0 3603 986
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 /usr/home/enstb1/Xilinx/Vivado2020.1/Vivado/2020.1/data/ip/xilinx/axi_dwidth_converter_v2_1/hdl/axi_dwidth_converter_v2_1_vl_rfs.v|
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_axi4lite_downsizer
+R1
+!i10b 1
+!s100 F:e8mAERREYM^zP2<<e<M3
+IReRMQd397Q7G1]T6GTzo22
+R0
+R2
+R3
+R4
+!i122 0
+L0 3003 269
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_axi4lite_upsizer
+R1
+!i10b 1
+!s100 RWOoQN<VmW2k01zASe@1<2
+IngEiL[W8WYc>PzKE6k0kg3
+R0
+R2
+R3
+R4
+!i122 0
+L0 3334 205
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_axi_downsizer
+R1
+!i10b 1
+!s100 IHR8jTGIgZlLE[HP`Gb_n3
+InQNfi[E[AGDHGg@8BL6Bi0
+R0
+R2
+R3
+R4
+!i122 0
+L0 2380 558
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_axi_upsizer
+Z13 !s110 1644241715
+!i10b 1
+!s100 >gWJdmOOSLaGGUDKI]VbV0
+ISo6cXgigLDQb:L2[3hAJU3
+R0
+R2
+R3
+R4
+!i122 0
+L0 12808 1573
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_b_downsizer
+R1
+!i10b 1
+!s100 O_0eUORzP:EUQmCNigQ>P0
+IiK<CkYGYfGEm;N6HhMQHK2
+R0
+R2
+R3
+R4
+!i122 0
+L0 1251 220
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_r_downsizer
+R1
+!i10b 1
+!s100 G?4Skd5i5I91THK5EnAHV3
+IfN2M6@fjSdGUFH^4aL[d@3
+R0
+R2
+R3
+R4
+!i122 0
+L0 1533 419
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_r_upsizer
+R1
+!i10b 1
+!s100 a6:2KB]mEcZGMo_M4_6JW2
+IDceAl5JMNaMnjS=;He^<<3
+R0
+R2
+R3
+R4
+!i122 0
+L0 4653 845
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_r_upsizer_pktfifo
+R13
+!i10b 1
+!s100 <Rj4hkLPKYD4YTcfzM62E0
+IG74T2cYfWz>B59hk7Lha`0
+R0
+R2
+R3
+R4
+!i122 0
+L0 9601 3134
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_top
+R13
+!i10b 1
+!s100 3iP]?06i6zR=HEbJdhT6P1
+Iz^bXzI?:dJ`SalRIzDlm81
+R0
+R2
+R3
+R4
+!i122 0
+L0 14462 891
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_w_downsizer
+R1
+!i10b 1
+!s100 JgC8[<B=8_G@2N`REoDQg0
+I=fcAncJ<og0^ni<DzUWHU2
+R0
+R2
+R3
+R4
+!i122 0
+L0 2016 292
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_w_upsizer
+R1
+!i10b 1
+!s100 @@nh?jfAkenhINIzn<SES0
+IL<H8ZXCFeWB;7eP8Bfzk<3
+R0
+R2
+R3
+R4
+!i122 0
+L0 5563 1402
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_dwidth_converter_v2_1_21_w_upsizer_pktfifo
+R13
+!i10b 1
+!s100 B7zFKe@c:6h4]jW::7<_92
+I@oa;UKC2fGc^m2<mIbO5;3
+R0
+R2
+R3
+R4
+!i122 0
+L0 7020 2525
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
